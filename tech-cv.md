@@ -16,8 +16,8 @@ Eight years experience developing front-end Flash applications for the auto, pha
 ####  Current Focus
 <img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel">
 
-#### `<center>Using new e6 features and  powerful frameworks/ libraries`
-#### `<center> to write clean, efficient, modular code.</center>`
+#### <center>Using new e6 features and  powerful frameworks/ libraries
+#### <center> to write clean, efficient, modular code.</center>
 
 ### Tech Skills
 - Javascript/HTML5/CSS3
