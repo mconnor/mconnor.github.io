@@ -3,34 +3,32 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-# Michael Connor : Front-end Developer
+# `Michael Connor`
+## `Front-end Developer`
 
 ### New Orleans, LA
 
-[email][contact] | [linked-in][linkedinURL] | [![github][gitHubLogo]][github-link]
+[email][contact]  [linked-in][linkedinURL]  [![github][gitHubLogo]][github-link]
 
 #### Summary
 Eight years experience developing front-end Flash applications for the auto, pharmaceutical, entertainment, technology and advertising industries; four years experience in online advertising; fifteen years rich media production
 
 ####  Current Focus
+<img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel">
 
-<img src="{{ site.url }}/images/e6.png" width="50" alt="es6" title='ES6'>
-<img src="{{ site.url }}/images/react2.png" width="50" alt="react" title='React.JS'>
-<img src="{{ site.url }}/images/vue-logo.png" width="50" title="vue.js" alt="vue" title='vue'>
-<img src="{{ site.url }}/images/webpack.png" width="50" alt="webpack" title='webpack'>
-<img src="{{ site.url }}/images/babel.png" width="50" alt="Babel" title='Babel'>
-
-#### Using new e6 features and  powerful frameworks/ libraries to write clean, efficient, modular code.
+#### `<center>Using new e6 features and  powerful frameworks/ libraries`
+#### `<center> to write clean, efficient, modular code.</center>`
 
 ### Tech Skills
 - Javascript/HTML5/CSS3
-- JS Frameworks:
+- JS Frameworks/libraries:
   - **Vue.JS**
   - **React.JS**
     - Redux
     - React Router
   - AngularJS
     - Angular Material, UI Bootstrap
+    - jQuery
 - Linting, transpiling, polyfilling, Bundling projects with:
   - **[Webpack][webpack]**
   - [Babel][babel]
@@ -49,6 +47,8 @@ Eight years experience developing front-end Flash applications for the auto, pha
 - Atom.io
 - NPM / Yarn
 - Git
+- Homebrew
+- Adobe CC
 
 #### Adobe Flash
 
@@ -214,12 +214,12 @@ for more, see the [project archive][project-archive]
 
 [doucette]: http://chiefdoucette.com/
 
-[gitHubLogo]: {{ site.url }}/images/GitHub-Mark-32px.png "Git Hub"
+[gitHubLogo]: ../images/GitHub-Mark-32px.png "Git Hub"
 
-[es6logo]: {{ site.url }}/images/es6.svg "ES6"
+[es6logo]: ../images/es6.svg "ES6"
 
-[vuelogo]: {{ site.url }}/images/vue-small.png "Vue.js"
-[reactlogo]: {{ site.url }}/images/react2.png "React.js"
+[vuelogo]: ../images/vue-small.png "Vue.js"
+[reactlogo]: ../images/react2.png "React.js"
 
 
 
