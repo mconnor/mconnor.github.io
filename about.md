@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="../images/me-truck200x200.jpg" width="150" alt="mike connor">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+I am a front-end developer that builds applications with JavaScript/HTML5/CSS and WordPress.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently diving deep with React.js and Vue.js. I've worked with AngularJS on a medical education single page app.
+
+I have almost a decade of experience working with
+Flash.  I've worked on teams - merging code with Git - and as the sole lead developer.
+
+I am based out of New Orleans.
