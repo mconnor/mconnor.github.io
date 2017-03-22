@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Quick Look at Aurelia"
+date:   2017-03-20 20:35:05 -0500
+categories: aurelia update
+---
+Yesterday played with  [Aurelia](http://aurelia.io/) after
+watching an [interesting talk by Rob Eisenberg](https://youtu.be/6I_GwgoGm1w).

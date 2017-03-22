@@ -11,43 +11,50 @@ permalink: /tech-cv/
 [email][contact]  [linked-in][linkedinURL]  [![github][gitHubLogo]][github-link]
 
 #### Summary
-Eight years experience developing front-end Flash applications for the auto, pharmaceutical, entertainment, technology and advertising industries; four years experience in online advertising; fifteen years rich media production
+Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
 
 ####  Current Focus
-<img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel">
+<center><img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
 
-#### <center>Using new e6 features and  powerful frameworks/ libraries
+#### <center>Using new es6 features and  powerful frameworks/ libraries
 #### <center> to write clean, efficient, modular code.</center>
 
 ### Tech Skills
 - Javascript/HTML5/CSS3
-- JS Frameworks/libraries:
-  - **Vue.JS**
-  - **React.JS**
-    - Redux
-    - React Router
-  - AngularJS
-    - Angular Material, UI Bootstrap
-    - jQuery
-- Linting, transpiling, polyfilling, Bundling projects with:
+- Linting, transpiling, polyfilling, bundling projects with:
   - **[Webpack][webpack]**
   - [Babel][babel]
 - CSS
   - CSS Flexible Box
   - Frameworks (Bootstrap, Bulma)
   - Less/Sass
-- Data visualization - D3 charting library
+- Flash
+- Rich Media Production
 - WordPress -[Genesis framework][genesis]
 - Strong debugging skills
 - command line/unix
 - [Web accessibility][aria]
 - Cloud hosting platforms such as AWS
 
+### Worked Professionally for two months with:
+- AngularJS
+  - Angular Material, UI Bootstrap
+  - jQuery
+
+### Learning
+- **Vue.JS**
+- **React.JS**
+  - Redux
+  - React Router
+- [Riot.js][riot]
+- Data visualization - D3 charting library
+
 #### Tool kit
 - Atom.io
 - NPM / Yarn
 - Git
 - Homebrew
+- ceate-rect-app, au-li
 - Adobe CC
 
 #### Adobe Flash
@@ -232,3 +239,6 @@ for more, see the [project archive][project-archive]
 [vue]:https://vuejs.org/
 
 [pgpkey]:https://twitter.com/cloud_swing/status/842115087632605186
+
+[aurelia]:http://aurelia.io/
+[riot]:http://riotjs.com/
