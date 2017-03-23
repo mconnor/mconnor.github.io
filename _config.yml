@@ -28,6 +28,7 @@ theme: minima
 #theme: console-theme
 gems:
   - jekyll-feed
+  - jekyll-octicons
 exclude:
   - Gemfile
   - Gemfile.lock

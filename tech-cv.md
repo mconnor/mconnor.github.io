@@ -3,8 +3,10 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-# `<center>Michael Connor  Front-end Developer</center>`
-#   `New Orleans, LA` [email][contact]  [linked-in][linkedinURL]  [![github][gitHubLogo]][github-link]
+# `Michael Connor`  `Front-end Developer`
+#   `New Orleans, LA` [{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
+
+
 
 #### Summary
 Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
@@ -37,7 +39,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
   - Angular Material, UI Bootstrap
   - [Web accessibility][aria]
 
-### Current Focus
+### {% octicon flame height:64 class:"right left" aria-label:currentfocus %}Current Focus{% octicon flame height:64 class:"right left" aria-label:currentfocus %}
 - **Vue.JS**
 - **React.JS**
   - Redux
