@@ -39,7 +39,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
   - Angular Material, UI Bootstrap
   - [Web accessibility][aria]
 
-### {% octicon flame height:64 class:"right left" aria-label:currentfocus %}Current Focus{% octicon flame height:64 class:"right left" aria-label:currentfocus %}
+### {% octicon flame height:44 class:"right left" aria-label:currentfocus %}Current Focus
 - **Vue.JS**
 - **React.JS**
   - Redux
