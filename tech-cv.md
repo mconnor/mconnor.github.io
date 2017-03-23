@@ -5,18 +5,7 @@ permalink: /tech-cv/
 ---
 ## Mike Connor | Front-end Developer
 ###   New Orleans, LA
-[CONTACT][contact] - [<span class="fa-stack fa-lg">
-      <i class="fa fa-square-o fa-stack-2x"></i>
-      <i class="fa fa-github-alt fa-stack-1x"></i>
-    </span>][github-link]
-
-
-    <span class="fa-stack fa-lg">
-          <i class="fa fa-square-o fa-stack-2x"></i>
-          <i class="fa fa-github-alt fa-stack-1x"></i>
-        </span>
-
-
+[CONTACT][contact] - [GITHUB][github-link]
 
 
 #### Summary
@@ -25,10 +14,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 ---
 
 
-
-
-
-<center><img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
+<center><img src="../images/e6.png" width="50" alt="es6" title="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
 
 #### <center>Using new es6 features and  powerful frameworks/ libraries
 #### <center> to write clean, efficient, modular code.</center>
