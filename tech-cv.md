@@ -11,6 +11,10 @@ permalink: /tech-cv/
     </span>][github-link]
 
 
+    <span class="fa-stack fa-lg">
+          <i class="fa fa-square-o fa-stack-2x"></i>
+          <i class="fa fa-github-alt fa-stack-1x"></i>
+        </span>
 
 
 
