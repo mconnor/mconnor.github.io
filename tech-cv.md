@@ -3,8 +3,12 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-# `Michael Connor`  `Front-end Developer`
-#   `New Orleans, LA` [{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
+## Mike Connor | Front-end Developer
+###   New Orleans, LA
+[Email][contact] | [GitHub][gitHubLogo]
+
+
+[{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
 
 
 
@@ -39,7 +43,8 @@ Eight years experience developing front-end applications for the auto, pharmaceu
   - Angular Material, UI Bootstrap
   - [Web accessibility][aria]
 
-### {% octicon flame height:44 class:"right left" aria-label:currentfocus %}Current Focus
+### Current Focus
+
 - **Vue.JS**
 - **React.JS**
   - Redux
