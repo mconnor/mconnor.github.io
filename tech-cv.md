@@ -8,9 +8,6 @@ permalink: /tech-cv/
 [Email][contact] | [GitHub][gitHubLogo]
 
 
-[comment]: <> [{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
-
-
 
 #### Summary
 Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
