@@ -25,6 +25,7 @@ github_username:  mconnor
 # Build settings
 markdown: kramdown
 theme: minima
+#theme: console-theme
 gems:
   - jekyll-feed
 exclude:

@@ -3,27 +3,24 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-# `Michael Connor`
-## `Front-end Developer`
-
-### New Orleans, LA
-
-[email][contact]  [linked-in][linkedinURL]  [![github][gitHubLogo]][github-link]
+# `<center>Michael Connor  Front-end Developer</center>`
+#   `New Orleans, LA` [email][contact]  [linked-in][linkedinURL]  [![github][gitHubLogo]][github-link]
 
 #### Summary
 Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
 
-####  Current Focus
+---
 <center><img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
 
 #### <center>Using new es6 features and  powerful frameworks/ libraries
 #### <center> to write clean, efficient, modular code.</center>
-
+---
 ### Tech Skills
 - Javascript/HTML5/CSS3
 - Linting, transpiling, polyfilling, bundling projects with:
   - **[Webpack][webpack]**
   - [Babel][babel]
+- jQuery
 - CSS
   - CSS Flexible Box
   - Frameworks (Bootstrap, Bulma)
@@ -33,15 +30,14 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - WordPress -[Genesis framework][genesis]
 - Strong debugging skills
 - command line/unix
-- [Web accessibility][aria]
 - Cloud hosting platforms such as AWS
 
-### Worked Professionally for two months with:
+### Professional experience with:
 - AngularJS
   - Angular Material, UI Bootstrap
-  - jQuery
+  - [Web accessibility][aria]
 
-### Learning
+### Current Focus
 - **Vue.JS**
 - **React.JS**
   - Redux
