@@ -5,7 +5,13 @@ permalink: /tech-cv/
 ---
 ## Mike Connor | Front-end Developer
 ###   New Orleans, LA
-[Email][contact] | [GitHub][gitHubLogo]
+[CONTACT][contact] - [<span class="fa-stack fa-lg">
+      <i class="fa fa-square-o fa-stack-2x"></i>
+      <i class="fa fa-github-alt fa-stack-1x"></i>
+    </span>][github-link]
+
+
+
 
 
 
@@ -13,6 +19,11 @@ permalink: /tech-cv/
 Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
 
 ---
+
+
+
+
+
 <center><img src="../images/e6.png" width="50" alt="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
 
 #### <center>Using new es6 features and  powerful frameworks/ libraries
@@ -221,7 +232,7 @@ for more, see the [project archive][project-archive]
 
 [doucette]: http://chiefdoucette.com/
 
-[gitHubLogo]: ../images/GitHub-Mark-32px.png "Git Hub"
+[githubpic]: ../images/GitHub-Mark-32px.png "Git Hub"
 
 [es6logo]: ../images/es6.svg "ES6"
 
