@@ -8,7 +8,7 @@ permalink: /tech-cv/
 [Email][contact] | [GitHub][gitHubLogo]
 
 
-[{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
+[comment]: <> [{% octicon mail height:32 class:"right left" aria-label:email %}][contact] [{% octicon octoface height:32 class:"right left" aria-label:github %}][github-link]
 
 
 
