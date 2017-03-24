@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Tic Tac Toe"
+date:   2017-03-22 20:35:05 -0500
+categories: jekyll update
+---
+
+[React Tic Tac Toe >>][tictactoe]
+
+Frome the [Facebook tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
+
+[tictactoe]:https://mconnor.github.io/tic-tac-toe/
