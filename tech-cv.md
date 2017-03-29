@@ -3,9 +3,11 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-## Mike Connor | Front-end Developer
+## Mike Connor : Front-end Developer
 ###   New Orleans, LA
-[CONTACT][contact] - [GITHUB][github-link]
+[contact][contact] - [github][github-link]
+
+
 
 
 #### Summary
