@@ -3,14 +3,6 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-## Mike Connor : Front-end Developer
-###   New Orleans, LA
-[contact][contact] - [github][github-link]
-
-
-
-
-#### Summary
 Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
 
 ---
@@ -46,7 +38,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 ### Current Focus
 
 - **Vue.JS**
-- **React.JS**
+- **React**
   - Redux
   - React Router
 - [Riot.js][riot]
@@ -67,7 +59,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 
 
 
-#### **Media Production**
+#### Media Production
  - Full Adobe Suite: Photoshop, Illustrator, Animate. Video editing and compression
 
 

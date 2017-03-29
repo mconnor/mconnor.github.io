@@ -8,7 +8,7 @@ permalink: /about/
 
 I am a front-end developer that builds applications with JavaScript/HTML5/CSS and WordPress.
 
-I am currently diving deep with React.js, Vue.js, Riot.js. I've worked with AngularJS on a medical education single page app.
+I am currently diving deep with React, Vue.js, Riot.js. I've worked professionally with AngularJS on a medical education single page app.
 
 I have almost a decade of experience working with
 Flash.  I've worked on teams - merging code with Git - and as the sole lead developer.
