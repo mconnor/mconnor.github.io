@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "tic-tac-toe"
+date:   2017-04-04 20:35:05 -0500
+categories: react vue.js
+---
+
+Worked my way thru the Facebook [React Tick Tac Toe tutorial][tictactoe]
+
+I then went back and did [a version in Vue.js][vue-tac-toe].
+
+[tictactoe]:https://mconnor.github.io/tic-tac-toe/
+
+
+[vue-tac-toe]:https://mconnor.github.io/vue-tac-toe/
