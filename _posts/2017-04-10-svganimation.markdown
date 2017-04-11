@@ -2,7 +2,7 @@
 layout: post
 title:  "SVG Animation"
 date:   2017-04-10 20:35:05 -0500
-categories: react vue.js
+categories: svg grunticon
 ---
 
 
