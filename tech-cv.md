@@ -10,8 +10,8 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 
 <center><img src="../images/e6.png" width="50" alt="es6" title="es6">  <img src="../images/react2.png" width="50" alt="react">  <img src="../images/vue-logo.png" width="50" title="vue.js" alt="vue">  <img src="../images/webpack.png" width="50" alt="webpack">  <img src="../images/babel.png" width="50" alt="Babel"></center>
 
-#### <center>Using new es6 features and  powerful frameworks/ libraries
-#### <center> to write clean, efficient, modular code.</center>
+#### <center>Writing elegant code with ES6, functional programming,</center>
+#### <center>and  powerful frameworks/libraries</center>
 ---
 ### Tech Skills
 - Javascript/HTML5/CSS3
@@ -19,14 +19,13 @@ Eight years experience developing front-end applications for the auto, pharmaceu
   - **[Webpack][webpack]**
   - [Babel][babel]
 - CSS
-  - CSS Flexible Box
+  - Flex Box
   - Frameworks (Bootstrap, Bulma)
   - Less/Sass
-- Flash
+- Flash/Action-script
 - Rich Media Production
 - WordPress -[Genesis framework][genesis]
 - Strong debugging skills
-- command line/unix
 
 
 ### Professional experience with:
@@ -41,7 +40,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - **React**
   - Redux
   - React Router
-	- [Riot.js][riot]
+- [Riot.js][riot]
 - Functional Programming
 - Data visualization - D3 charting
 - Data Streams
