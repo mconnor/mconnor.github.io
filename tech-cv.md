@@ -51,8 +51,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - NPM / Yarn
 - Git
 - Homebrew
-- ceate-rect-app, au-li
-- Adobe CC
+- terminal
 
 #### Adobe Flash
 
