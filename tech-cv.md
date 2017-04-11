@@ -3,7 +3,7 @@ layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production. Strong background in object-oriented programming.
+Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production.
 
 ---
 
@@ -15,10 +15,9 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 ---
 ### Tech Skills
 - Javascript/HTML5/CSS3
-- Linting, transpiling, polyfilling, bundling projects with:
+- Pre-processing/optimization with:
   - **[Webpack][webpack]**
   - [Babel][babel]
-- jQuery
 - CSS
   - CSS Flexible Box
   - Frameworks (Bootstrap, Bulma)
@@ -42,7 +41,8 @@ Eight years experience developing front-end applications for the auto, pharmaceu
   - Redux
   - React Router
 - [Riot.js][riot]
-- Data visualization - D3 charting library
+- Data visualization - D3 charting
+- Data Streaming (Rx)
 
 #### Tool kit
 - Atom.io
