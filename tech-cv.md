@@ -27,12 +27,13 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - WordPress -[Genesis framework][genesis]
 - Strong debugging skills
 - command line/unix
-- Cloud hosting platforms such as AWS
+
 
 ### Professional experience with:
 - AngularJS
   - Angular Material, UI Bootstrap
   - [Web accessibility][aria]
+- Cloud hosting platforms such as AWS
 
 ### Current Focus
 
@@ -40,9 +41,10 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - **React**
   - Redux
   - React Router
-- [Riot.js][riot]
+	- [Riot.js][riot]
+- Functional Programming
 - Data visualization - D3 charting
-- Data Streaming (Rx)
+- Data Streams
 
 #### Tool kit
 - Atom.io
