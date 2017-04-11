@@ -31,8 +31,10 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 ### Professional experience with:
 - AngularJS
   - Angular Material, UI Bootstrap
-  - [Web accessibility][aria]
+  - Accessible Rich Internet Applications [ARIA][aria]
 - Cloud hosting platforms such as AWS
+- SVG
+
 
 ### Current Focus
 
@@ -44,6 +46,7 @@ Eight years experience developing front-end applications for the auto, pharmaceu
 - Functional Programming
 - Data visualization - D3 charting
 - Data Streams
+
 
 #### Tool kit
 - Atom.io
@@ -204,7 +207,6 @@ for more, see the [project archive][project-archive]
 
 [genesis]: http://www.studiopress.com/faqs/
 
-[aria]: https://www.w3.org/WAI/intro/aria
 
 [gssp]: https://greensock.com/gsap
 
@@ -239,3 +241,5 @@ for more, see the [project archive][project-archive]
 [riot]:http://riotjs.com/
 
 [tictactoe]:https://mconnor.github.io/tic-tac-toe/
+
+[aria]:https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
