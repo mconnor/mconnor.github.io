@@ -1,5 +1,5 @@
 ---
-layout: stripped
+layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
