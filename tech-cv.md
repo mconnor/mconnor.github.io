@@ -1,9 +1,17 @@
 ---
-layout: page
+layout: stripped
 title: Tech CV
 permalink: /tech-cv/
 ---
-Eight years experience developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production.
+# Mike Connor - Front-end Developer
+## New Orleans
+
+- mike@cloudswing.info
+- [linked-in][linkedinURL]
+- [GitHub][github-link]
+
+
+Eight years [experience][github-link] developing front-end applications for the auto, pharmaceutical, entertainment, and advertising industries; four years experience in online advertising; fifteen years rich media production.
 
 ---
 
