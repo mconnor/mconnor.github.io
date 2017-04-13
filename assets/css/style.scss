@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$gray: yellow;
+$headerColor: lighten($gray, 25%);
+
+
+.post-content {
+	margin-top: 1em;
+}
+#main-content h1 {
+	color: $headerColor;
+	text-indent: 10px;
+}
+#main-content .post-meta {
+	color: $headerColor;
+	text-indent: 8px;
+}
+
+header  {
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+		background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+    font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+
+    border-bottom: solid 1px #275da1;
+}

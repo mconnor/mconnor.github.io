@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: page
 title: Tech CV
 permalink: /tech-cv/
 ---
-# Mike Connor - Front-end Developer
-## New Orleans
+
 
 - mike@cloudswing.info
 - [linked-in][linkedinURL]
