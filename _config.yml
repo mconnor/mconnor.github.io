@@ -21,18 +21,20 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mconnor.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Cloud_Swing
 github_username:  mconnor
+show_downloads: "false"
+github.is_project_page: "false"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hackcss
-#theme: jekyll-theme-architect
+#theme: jekyll-theme-hackcss
+theme: jekyll-theme-architect
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-modernist
 #theme: minima
 #theme: jekyll-theme-slate
 #theme: console-theme
 
-show_downloads: "false"
+
 
 gems:
   - jekyll-feed
