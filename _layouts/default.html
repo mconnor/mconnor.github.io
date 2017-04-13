@@ -37,13 +37,19 @@
 
 			<aside id="sidebar">
 
-				<ul>
+
+<ul>
+	<li><a href="{{ '/about' | absolute_url }}">about</a></li>
+	<li><a href="{{ '/tech-cv' | absolute_url }}">tech-cv</a></li>
+	<li><a href="{{ '/contact' | absolute_url }}">contact</a></li>
+</ul>
+				<!-- <ul>
 				  {% for page in site.pages %}
 				    <li>
 				      <a href="{{ page.url }}">{{ page.title }}</a>
 				    </li>
 				  {% endfor %}
-				</ul>
+				</ul> -->
 
 
 				{% if site.show_downloads %}
