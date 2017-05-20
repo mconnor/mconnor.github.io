@@ -1,4 +1,3 @@
-
 ## Michael Connor - Front-end Developer
 
 **New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]
@@ -6,33 +5,31 @@
 
 
 #### Skills
+
 | Technology | Years' experience | Skill level
-|:---|:---:|: ---
-| Javascript     | 3 | Intermediate
-| --- React     | 1 | Intermediate
+|:----------------------------|:---:|: ---
+| Javascript                  | 3 | Intermediate
+| --- React                   | 1 | Intermediate
 | ----- Redux, React Router   | 1 | Novice
-| --- Vue.JS     											| 1 | Intermediate
-| --- Riot     												| 1 | Novice
+| --- Vue.JS     							| 1 | Intermediate
+| --- Riot     								| 1 | Novice
 | --- ReactiveX | 1 | Novice
 | ---ES6      | 1 | Expert
-| ---functional programming      | 1 | Intermediate
+| ---functional programming   | 1 | Intermediate
 | ---Data visualization - [D3][d3] charting      | 1 | Intermediate
 | CSS Flexbox, Grid     | 1 | Intermediate  / Novice
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
-| Flash Action-script 3, 2   | 8 | Expert
+| Flash Action-script 3, 2    | 8 | Expert
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-| PHP | 1 | Novice
-
-
-<!-- BREAK -->
-
-| Technology | Years' experience | Skill level
-|:------------------|:----:|: ---
+| PHP                         | 1 | Novice
+| Node                        | 1 | Novice
+| - Express                   | 1 | Novice
+| - Pug                   		| 1 | Novice
 | **Terminal**
 | --- Git |  8 | Intermediate
-| --- Package management ([Homebrew][brew]) |  3 | Intermediate
-| --- NPM/Yarn |  2 | Intermediate
-| --- Amazon AWS |  1 | Novice
+| --- Package management ([Homebrew][brew]) | 3 | Intermediate
+| --- NPM/Yarn                 | 2 | Intermediate
+| --- Amazon AWS               | 1 | Novice
 | **Media Production - Adobe CC**| 20 | Intermediate
 
 
@@ -67,11 +64,11 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 Macromedia Director projects, DVD, websites, video editing.
 
 
-[comment]:#### Outside Interest
-[comment]:- Crossfit level 1 certified instructor
-[comment]:- White water rafting guide
-[comment]:- Large-scale art (six years [temple crew](http://www.thetemplecrew.org/))
-[comment]:- Adventure Touring ([KLR-650](https://flic.kr/p/akv8Hk))
+#### Outside Interest
+- Crossfit level 1 certified instructor
+- White water rafting guide
+- Large-scale art (six years [temple crew](http://www.thetemplecrew.org/))
+- Adventure Touring ([KLR-650](https://flic.kr/p/akv8Hk))
 
 
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
