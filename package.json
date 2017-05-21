@@ -1,0 +1,9 @@
+{
+  "name": "mconnor.github.io",
+  "version": "1.0.0",
+  "description": "jekyll site",
+  "main": "index.js",
+  "repository": "https://github.com/mconnor/mconnor.github.io",
+  "author": "mike connor <mike@rocketnumber9.org>",
+  "license": "MIT"
+}

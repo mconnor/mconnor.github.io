@@ -8,16 +8,20 @@
 
 | Technology | Years' experience | Skill level
 |:----------------------------|:---:|: ---
-| Javascript                  | 3 | Intermediate
-| --- React                   | 1 | Intermediate
-| ----- Redux, React Router   | 1 | Novice
-| --- Vue.JS     							| 1 | Intermediate
-| --- Riot     								| 1 | Novice
-| --- ReactiveX | 1 | Novice
-| ---ES6      | 1 | Expert
-| ---functional programming   | 1 | Intermediate
-| ---Data visualization - [D3][d3] charting      | 1 | Intermediate
-| CSS Flexbox, Grid     | 1 | Intermediate  / Novice
+| **Javascript**                 | 3 | Intermediate
+| • ES6                      | 1 | Expert
+| • Functional programming   | 1 | Intermediate
+| ** Frameworks**
+| • React                   | 1 | Intermediate
+| -- Redux, React Router   | 1 | Novice
+| • Vue.JS     							| 1 | Intermediate
+| • Riot     								| 1 | Novice
+| ReactiveX - rxjs              | 1 | Novice
+| **libraries**
+| -- JQuery                  | 4 | Intermediate
+| -- greensock  (animation)              | 4 | Intermediate
+| -- Data visualization - [D3][d3] charting      | 1 | Intermediate
+| **CSS3, Flexbox, Grid**     | 1 | Intermediate  / Novice
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
 | Flash Action-script 3, 2    | 8 | Expert
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
