@@ -16,55 +16,56 @@
 | -- Redux, React Router   | 1 | Novice
 | • Vue.JS     							| 1 | Intermediate
 | • Riot     								| 1 | Novice
-| ReactiveX - rxjs              | 1 | Novice
+[//]: | ReactiveX - rxjs              | 1 | Novice
 | **libraries**
 | -- JQuery                  | 4 | Intermediate
-| -- greensock  (animation)              | 4 | Intermediate
+| -- greensock  (animation)  | 4 | Intermediate
 | -- Data visualization - [D3][d3] charting      | 1 | Intermediate
-| **CSS3, Flexbox, Grid**     | 1 | Intermediate  / Novice
+| CSS3, Flexbox, Grid    		 | 1 | Intermediate  / Novice
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
 | Flash Action-script 3, 2    | 8 | Expert
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | PHP                         | 1 | Novice
-| Node                        | 1 | Novice
-| - Express                   | 1 | Novice
-| - Pug                   		| 1 | Novice
+| Node, Express, Pug                | 1 | Novice
+[//]:| - Express                   | 1 | Novice
+[//]: | - Pug                   		| 1 | Novice
 | **Terminal**
 | --- Git |  8 | Intermediate
 | --- Package management ([Homebrew][brew]) | 3 | Intermediate
 | --- NPM/Yarn                 | 2 | Intermediate
-| --- Amazon AWS               | 1 | Novice
+[//]:| --- Amazon AWS               | 1 | Novice
 | **Media Production - Adobe CC**| 20 | Intermediate
 
 
 
 #### Education
-
-`1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies.
+- `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies.
+- `1986` University of KS - BS Business
 
 #### Experience
 
-**Front End Development @ Typhon Group** `2016`
+##### Front End Development @ Typhon Group `2016`
 Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
 
-**Developer @ Reel Feed TV** `2015-2016`
+##### Developer @ Reel Feed TV `2015-2016`
 Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with clients Amazon AWS account.
 
-**Ad Technologist @ Yahoo** `Jan 2012 - May 2013`
+##### Ad Technologist @ Yahoo `Jan 2012 - May 2013`
 
-- Worked on a small team building rich media ads for meeting tight deadlines
-- Drafted new standards for internal tracking of ad progression and interaction
+- Worked on a small team producing rich media ads and implementing them into the Yahoo AdInterax system
+- Drafted new standards for internal tracking of user interaction in AdInterax
 - Produced new versions of [Yahoo Connected TV]
+- Tech support for publishers
 - Account management and team revenue reporting
-- Publisher support
 
-**Developer / CEO @ Cloud Swing, Inc** `2005-2017`
+
+##### Developer / CEO @ Cloud Swing, Inc `2005-2017`
 Flash apps: kiosks, [games][elauder], [sales tools][hyndai]:, [interactive video players][pharma-app]. [WordPress sites][tikun].
 
-**Senior Flash Developer @ [Vindico Group][vindico]** `Nov 2009 - Nov 2010`
+##### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that tracks user interactions and ad events - and measures a campaign's effectiveness.
 
-**Rich Media Producer** (freelance & full-time) `1996-2005`
+##### Rich Media Producer (freelance & full-time) `1996-2005`
 Macromedia Director projects, DVD, websites, video editing.
 
 
