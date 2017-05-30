@@ -21,7 +21,10 @@
 | -- JQuery                  | 4 | Intermediate
 | -- greensock  (animation)  | 4 | Intermediate
 | -- Data visualization - [D3][d3] charting      | 1 | Intermediate
-| CSS3, Flexbox, Grid    		 | 1 | Intermediate  / Novice
+| **CSS3**    		 	| 1 | Intermediate
+| - Flexbox    		 	| 1 | Intermediate
+| - Grid    		 		| 1 | Novice
+| - Bootstrap    		| 1 | Intermediate
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
 | Flash Action-script 3, 2    | 8 | Expert
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
