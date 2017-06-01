@@ -1,6 +1,6 @@
 ## Michael Connor - Front-end Developer
 
-**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]
+<small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]</small>
 
 
 
@@ -8,36 +8,36 @@
 
 | Technology | Years' experience | Skill level
 |:----------------------------|:---:|: ---
-| **Javascript**                 | 3 | Intermediate
-| • ES6                      | 1 | Expert
+| **Javascript**                 | 3 | Advanced
+| * ES6                      | 1 | Advanced
 | • Functional programming   | 1 | Intermediate
 | ** Frameworks**
-| • React                   | 1 | Intermediate
-| -- Redux, React Router   | 1 | Novice
+|  • React                   | 1 | Intermediate
+|  <small>&nbsp;&nbsp;&nbsp;• Redux, React Router</small>   | <small>1 | <small>Novice
 | • Vue.JS     							| 1 | Intermediate
-| • Riot     								| 1 | Novice
+| • Riot     								| 1 | Intermediate
 [//]: | ReactiveX - rxjs              | 1 | Novice
 | **libraries**
-| -- JQuery                  | 4 | Intermediate
-| -- greensock  (animation)  | 4 | Intermediate
-| -- Data visualization - [D3][d3] charting      | 1 | Intermediate
+| • JQuery                  | 4 | Advanced
+| • greensock  (animation)  | 4 | Advanced
+| • Data visualization - [D3][d3] charting      | 1 | Intermediate
 | **CSS3**    		 	| 1 | Intermediate
-| - Flexbox    		 	| 1 | Intermediate
-| - Grid    		 		| 1 | Novice
+| - Flexbox   		 	| 1 | Advanced
+| - Grid    		 		| 1 | Intermediate
 | - Bootstrap    		| 1 | Intermediate
-| [Webpack][webpack], [Babel][babel] | 1 | Intermediate
-| Flash Action-script 3, 2    | 8 | Expert
+| [Webpack][webpack], [Babel][babel] | 1 | Advanced
+| Flash Action-script 3, 2    | 8 | Advanced
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | PHP                         | 1 | Novice
 | Node, Express, Pug                | 1 | Novice
 [//]:| - Express                   | 1 | Novice
 [//]: | - Pug                   		| 1 | Novice
 | **Terminal**
-| --- Git |  8 | Intermediate
-| --- Package management ([Homebrew][brew]) | 3 | Intermediate
-| --- NPM/Yarn                 | 2 | Intermediate
-[//]:| --- Amazon AWS               | 1 | Novice
-| **Media Production - Adobe CC**| 20 | Intermediate
+| --- Git |  8 | Advanced
+| --- Package management ([Homebrew][brew]) | 3 | Advanced
+| --- NPM/Yarn                 | 2 | Advanced
+[//]:| --- Amazon AWS Cloud              | 1 | Novice
+| **Media Production - Adobe CC**| 20 | Advanced
 
 
 
@@ -46,6 +46,9 @@
 - `1986` University of KS - BS Business
 
 #### Experience
+
+##### Developer / CEO @ Cloud Swing, Inc `2005-2017`
+Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. [WordPress sites][tikun].
 
 ##### Front End Development @ Typhon Group `2016`
 Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
@@ -62,8 +65,7 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 - Account management and team revenue reporting
 
 
-##### Developer / CEO @ Cloud Swing, Inc `2005-2017`
-Flash apps: kiosks, [games][elauder], [sales tools][hyndai]:, [interactive video players][pharma-app]. [WordPress sites][tikun].
+
 
 ##### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that tracks user interactions and ad events - and measures a campaign's effectiveness.
@@ -72,10 +74,10 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 Macromedia Director projects, DVD, websites, video editing.
 
 
-#### Outside Interest
+#### Outside Interests
 - Crossfit level 1 certified instructor
 - White water rafting guide
-- Large-scale art (six years [temple crew](http://www.thetemplecrew.org/))
+- Construction, infrastructure design for [large-scale art projects](http://www.thetemplecrew.org/)
 - Adventure Touring ([KLR-650](https://flic.kr/p/akv8Hk))
 
 
