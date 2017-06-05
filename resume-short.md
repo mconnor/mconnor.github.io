@@ -1,4 +1,4 @@
-## Michael Connor - Front-end Developer
+## Michael Connor - Front-end Development, UI Design
 
 <small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]</small>
 
@@ -27,11 +27,14 @@
 | - Bootstrap    		| 1 | Intermediate
 | [Webpack][webpack], [Babel][babel] | 1 | Advanced
 | Flash Action-script 3, 2    | 8 | Advanced
+| Apache Flex® SDK           | 1 | Intermediate
+| JetBrains IntelliJ IDEA    | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | PHP                         | 1 | Novice
-| Node, Express, Pug                | 1 | Novice
-[//]:| - Express                   | 1 | Novice
-[//]: | - Pug                   		| 1 | Novice
+| Node, Express, Pug          | 1 | Novice
+[//]:| - Express              | 1 | Novice
+[//]: | - Pug                 | 1 | Novice
+| Unit testing - mocha        | 1 | Novice
 | **Terminal**
 | --- Git |  8 | Advanced
 | --- Package management ([Homebrew][brew]) | 3 | Advanced
