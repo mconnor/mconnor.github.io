@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
+
 <img src="../images/me-truck200x200.jpg" width="150" alt="mike connor">
 
-Front-end developer that builds applications with JavaScript/HTML5/CSS and WordPress.
+## Front-end developer
+I build applications with JavaScript/HTML5/CSS and WordPress.
+Specializing in ES6 javascript and React, Redux, functional programming.
 
-Currently diving deep with React, Vue.js, Riot.js. I've worked professionally with AngularJS on a medical education single page app.
+## Based out of New Orleans.
+The best city in the world.
 
-Almost a decade of experience working with
-Flash.  I've worked on teams - merging code with Git - and as the sole lead developer.
+## Crossfitter
+I love Oly. I hate burpees.
 
-Based out of New Orleans.
+## Art Worker Monkey
+Builder, performer, fixer. Six [temple crews](http://www.thetemplecrew.org/)... and scars from many more crazy art projects.
+
+## KLR-650
+Best cheapest bike in the world
 
 [repos]:https://github.com/mconnor
+
+[truckpic]: ../images/me-truck200x200.jpg "me and my truck"
+[cutout]: https://goo.gl/photos/4vP2XYYX9TeQYLQs9
