@@ -1,4 +1,5 @@
-## Michael Connor - Front-end Development, UI Design
+## Michael Connor
+### Front-end Development, UI Design, Media Production
 
 <small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]</small>
 
@@ -12,41 +13,47 @@
 | * ES6                      | 1 | Advanced
 | • Functional programming   | 1 | Intermediate
 | ** Frameworks**
-|  • React                   | 1 | Intermediate
-|  <small>&nbsp;&nbsp;&nbsp;• Redux, React Router</small>   | <small>1 | <small>Novice
+| • React Redux, React Router )  | 1 | Intermediate
 | • Vue.JS     							| 1 | Intermediate
 | • Riot     								| 1 | Intermediate
-[//]: | ReactiveX - rxjs              | 1 | Novice
+| • AngularJS     								| 1 | Intermediate
+[//]: | ReactiveX - rxjs    | 1 | Novice
 | **libraries**
 | • JQuery                  | 4 | Advanced
 | • greensock  (animation)  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
 | **CSS3**    		 	| 1 | Intermediate
-| - Flexbox   		 	| 1 | Advanced
-| - Grid    		 		| 1 | Intermediate
-| - Bootstrap    		| 1 | Intermediate
+| • Flexbox   		 	| 1 | Advanced
+| • Bootstrap    		| 1 | Intermediate
+| • Stylelint    		| 1 | Intermediate
+| • PostCSS    		  | 1 | Intermediate
+| • SCSS    		    | 1 | Intermediate
 | [Webpack][webpack], [Babel][babel] | 1 | Advanced
-| Flash Action-script 3, 2    | 8 | Advanced
+[//]:| Swift              | 1 | Novice
+| Flash AS 3, 2. Apache Flex® SDK   | 8 | Advanced
 | Apache Flex® SDK           | 1 | Intermediate
-| JetBrains IntelliJ IDEA    | 1 | Intermediate
+[//]:| JetBrains IntelliJ IDEA    | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-| PHP                         | 1 | Novice
+[//]:| PHP                         | 1 | Novice
 | Node, Express, Pug          | 1 | Novice
+[//]:| Meteor   							      | 1 | Novice
+[//]:| Firebase   							      | 1 | Novice
+[//]:| MongoDB   							      | 1 | Novice
 [//]:| - Express              | 1 | Novice
 [//]: | - Pug                 | 1 | Novice
-| Unit testing - mocha        | 1 | Novice
+| Unit testing - mocha, jest, enzyme       | 1 | Novice
 | **Terminal**
 | --- Git |  8 | Advanced
 | --- Package management ([Homebrew][brew]) | 3 | Advanced
 | --- NPM/Yarn                 | 2 | Advanced
 [//]:| --- Amazon AWS Cloud              | 1 | Novice
-| **Media Production - Adobe CC**| 20 | Advanced
+| **Media Production - Adobe CC**| 20 | Intermediate
 
 
 
 #### Education
-- `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies.
-- `1986` University of KS - BS Business
+- `1995-1997` Interactive Telecommunications Program - NYU. <small>Masters of Professional Studies</small>
+- University of KS - BS Business
 
 #### Experience
 
@@ -172,5 +179,7 @@ Macromedia Director projects, DVD, websites, video editing.
 [brew]:https://brew.sh/
 
 [d3]:https://d3js.org/
+
+
 
 [codepen]:https://codepen.io/cloudswing
