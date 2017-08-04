@@ -1,0 +1,76 @@
+---
+layout: post
+title: PostCSS
+---
+
+# VAST 3 Icon
+
+Three possible resources
+
+/StaticResource
+/IFrameResource
+/HTMLResource
+
+**StaticResource** -
+
+creativeType="image/png" -- Displays. Clicks thru correctly. Currently the only solution.
+Positioning is done with the xPostion yPosition attributes in VAST xml.
+Problems with this solution?
+
+
+creativeType="application/x-javascript"
+Displays. Image w/ styling appears. Icon clickthru does NOT work.
+
+
+**IFrameResource**
+Displays. Image w/ styling appears. Icon clickthru does NOT work.
+
+**HTMLResource** -
+Displays. Image w/ styling appears. Icon clickthru does NOT work.
+Note - link to an external HTML. Do not put HTML in
+
+
+See conversation with Google dev [blinny][blinny-forum]
+He was recommending using **<StaticResource>** and creativeType="application/x-javascript"
+
+
+`<Icon program="AdChoices" width="60" height="20" xPosition="2" yPosition="2">
+<StaticResource creativeType="application/x-javascript">
+<![CDATA[
+http://http://rocketnumber9.org/vast-test/blinny/icon.html
+]]>
+</StaticResource>`
+
+Conclusion... Image and js load. I icon click through is still obscured
+
+
+## Possible Fix in [IMA Player][ima-release]?
+In the support forum, [a google dev has said the icon problem is fixed](https://developers.google.com/interactive-media-ads/docs/sdks/html5/community?place=msg%2Fima-sdk%2FMHMKZ2hy8KI%2FRjMpjczHAwAJ) and a release has been made. Except - that it hasn't.
+Continued pestering of their dev team is recommended. This should work. It's in the VAST 3 spec.
+
+## Possible Solution -  Custom js solution
+ create a method that used a regex to parse through the VAST, find that icon node, pick the first one, inject the javascript/display the icon. Then you can approach these player folks with a method they can just drop right into their player code and have it work out of the box.
+
+
+
+## CORS - Cross Origin Resource Sharing (CORS) for JavaScript
+
+This is does not appear to be immediately applicable to the problem at hand. But I was getting CORS errors when testing out tags hosted from various locations.
+
+The VAST 3 Spec says:
+
+In order for JavaScript video players to accept a VAST response, ad servers must include a CORS header in the http file that wraps the VAST response. The CORS header must be formatted as follows: Access-Control-Allow-Origin: <origin header value> Access-Control-Allow-Credentials: true
+
+Solution: on my personal server from where i'm pulling tags, I added this to the .htaccess file, for testing with the Google [IMA HTML5 player:][imaplayer]
+**Header add Access-Control-Allow-Origin: "http://imasdk.googleapis.com"**
+**Header add Access-Control-Allow-Credentials: true**
+
+JWPlayer and icon - not working. Not even a discussion of it working.
+
+
+
+[ima-release]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/v3/history
+[imaplayer]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/
+[vast-spec]: https://www.iab.com/guidelines/digital-video-ad-serving-template-vast-3-0/mar
+
+[blinny-forum]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/community?place=msg%2Fima-sdk%2FMHMKZ2hy8KI%2F6poFwcB9KgAJ
