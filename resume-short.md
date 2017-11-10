@@ -10,8 +10,6 @@
 | Technology                  | Years' experience | Skill level
 |:----------------------------|:-----------------:|: ---
 | **Javascript**              	    | 3 | Advanced
-| **Digital Ad Tech - VPAID, VAST** | 5 | Advanced
-| **Javascript**              	    | 3 | Advanced
 | * ES6, Functional programming   	| 2 | Advanced
 | ** Frameworks / libraries**
 | • React, Redux, React Router  | 1 | Intermediate
@@ -26,6 +24,7 @@
 | • Stylelint    			| 1 | Intermediate
 | • PostCSS    		   	 	| 1 | Intermediate
 | • SCSS    		    	| 1 | Intermediate
+| **Digital Ad Tech - VPAID, VAST** | 5 | Advanced
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
 [//]:| Swift              	| 1 | Novice
 | Flash AS 3, 2. Apache Flex® SDK   | 8 | Advanced
