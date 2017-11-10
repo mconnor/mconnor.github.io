@@ -1,5 +1,5 @@
-## Michael Connor
-### Front-end Development, UI Design, Media Production
+## Michael Connor - <small>Front-end Development, UI Design</small>
+
 
 <small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]</small>
 
@@ -7,46 +7,45 @@
 
 #### Skills
 
-| Technology | Years' experience | Skill level
-|:----------------------------|:---:|: ---
-| **Javascript**                 | 3 | Advanced
-| * ES6                      | 1 | Advanced
-| • Functional programming   | 1 | Intermediate
-| ** Frameworks**
-| • React Redux, React Router )  | 1 | Intermediate
-| • Vue.JS     							| 1 | Intermediate
-| • Riot     								| 1 | Intermediate
-| • AngularJS     								| 1 | Intermediate
+| Technology                  | Years' experience | Skill level
+|:----------------------------|:-----------------:|: ---
+| **Javascript**              	    | 3 | Advanced
+| **Digital Ad Tech - VPAID, VAST** | 5 | Advanced
+| **Javascript**              	    | 3 | Advanced
+| * ES6, Functional programming   	| 2 | Advanced
+| ** Frameworks / libraries**
+| • React, Redux, React Router  | 1 | Intermediate
+| • Vue.JS, Riot, AngularJS   	| 1 | Intermediate
 [//]: | ReactiveX - rxjs    | 1 | Novice
-| **libraries**
 | • JQuery                  | 4 | Advanced
 | • greensock  (animation)  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
-| **CSS3**    		 	| 1 | Intermediate
-| • Flexbox   		 	| 1 | Advanced
-| • Bootstrap    		| 1 | Intermediate
-| • Stylelint    		| 1 | Intermediate
-| • PostCSS    		  | 1 | Intermediate
-| • SCSS    		    | 1 | Intermediate
-| [Webpack][webpack], [Babel][babel] | 1 | Advanced
-[//]:| Swift              | 1 | Novice
+| **CSS3**    		 		| 1 | Intermediate
+| • Flexbox   		 		| 1 | Advanced
+| • Bootstrap    			| 1 | Intermediate
+| • Stylelint    			| 1 | Intermediate
+| • PostCSS    		   	 	| 1 | Intermediate
+| • SCSS    		    	| 1 | Intermediate
+| [Webpack][webpack], [Babel][babel] | 1 | Intermediate
+[//]:| Swift              	| 1 | Novice
 | Flash AS 3, 2. Apache Flex® SDK   | 8 | Advanced
-| Apache Flex® SDK           | 1 | Intermediate
 [//]:| JetBrains IntelliJ IDEA    | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-[//]:| PHP                         | 1 | Novice
-| Node, Express, Pug          | 1 | Novice
-[//]:| Meteor   							      | 1 | Novice
-[//]:| Firebase   							      | 1 | Novice
-[//]:| MongoDB   							      | 1 | Novice
-[//]:| - Express              | 1 | Novice
-[//]: | - Pug                 | 1 | Novice
+[//]:| PHP                  | 1 | Novice
+| Node, Express, Pug        | 1 | Novice
+| REST apis        			| 3 | Intermediate
+[//]:|[//]:| Meteor   	 	| 1 | Novice
+[//]:| Firebase   			| 1 | Novice
+[//]:| MongoDB   			| 1 | Novice
+[//]:| - Express            | 1 | Novice
+[//]: | - Pug               | 1 | Novice
 | Unit testing - mocha, jest, enzyme       | 1 | Novice
+| SVG (optimization, automation, accessibility, Grunticon)      | 1 | Intermediate
 | **Terminal**
-| --- Git |  8 | Advanced
+| --- Git                    |  8 | Advanced
 | --- Package management ([Homebrew][brew]) | 3 | Advanced
-| --- NPM/Yarn                 | 2 | Advanced
-[//]:| --- Amazon AWS Cloud              | 1 | Novice
+| --- NPM/Yarn                | 2 | Advanced
+[//]:| --- Amazon AWS Cloud   | 1 | Novice
 | **Media Production - Adobe CC**| 20 | Intermediate
 
 
@@ -57,8 +56,11 @@
 
 #### Experience
 
-##### Developer / CEO @ Cloud Swing, Inc `2005-2017`
+##### Developer/Independent Contractor @ Cloud Swing, Inc `2005-2017`
 Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. [WordPress sites][tikun].
+
+##### Front End Development @ EVIDON `2017 - ongoing`
+Wrote new code and worked on legacy code base to implement AdChoices icon for clients VAST 3 and VPAID players.
 
 ##### Front End Development @ Typhon Group `2016`
 Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
