@@ -5,13 +5,12 @@
 ## Skills
 
 | Technology                  | Years' experience | Skill level
-|:----------------------------|:-----------------:|: ---
+| ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 | * ES6, Functional programming     | 2 | Advanced
 | **Frameworks/libraries**
 | • React, Redux, React Router  | 1 | Intermediate
 | • Vue.JS, Riot, AngularJS | 1 | Intermediate
-[//]: | ReactiveX - rxjs    | 1 | Novice
 | • JQuery                  | 4 | Advanced
 | • greensock  (animation)  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
@@ -23,30 +22,21 @@
 | • SCSS                       | 1 | Intermediate
 | **Digital Ad Tech - VPAID, VAST** | 5 | Advanced
 | [Webpack][webpack], [Babel][babel] | 1 | Intermediate
-[//]:| Swift                | 1 | Novice
 | Flash AS 3, 2. Apache Flex® SDK   | 8 | Advanced
-[//]:| JetBrains IntelliJ IDEA    | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-[//]:| PHP                  | 1 | Novice
 | Node, Express, Pug        | 1 | Novice
 | REST apis                  | 3 | Intermediate
-[//]:|[//]:| Meteor         | 1 | Novice
-[//]:| Firebase             | 1 | Novice
-[//]:| MongoDB              | 1 | Novice
-[//]:| - Express            | 1 | Novice
-[//]: | - Pug               | 1 | Novice
 | Unit testing - mocha, jest, enzyme       | 1 | Novice
 | SVG (optimization, automation, accessibility, Grunticon)      | 1 | Intermediate
 | **Terminal**
 | --- Git                    |  8 | Advanced
 | --- Package management ([Homebrew][brew]) | 3 | Advanced
 | --- NPM/Yarn                | 2 | Advanced
-[//]:| --- Amazon AWS Cloud   | 1 | Novice
 | **Media Production - Adobe CC**| 20 | Intermediate
 
 ## Education
 
-- `1995-1997` Interactive Telecommunications Program - NYU. <small>Masters of Professional Studies</small>
+- `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies
 - University of KS - BS Business
 
 ## Experience
@@ -84,9 +74,7 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 Macromedia Director projects, DVD, websites, video editing.
 
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
-
 [linkedinURL]: https://www.linkedin.com/in/michaelgconnor
-
 [hyndai]: http://rocketnumber9.org/developer/touchscreen-kiosk-hyunda/
 [hyndai photos]: https://www.flickr.com/photos/rocketnumber9/sets/72157610613514303/show/
 [kia]: http://rocketnumber9.org/client/optima/optima.html "Auto App"
