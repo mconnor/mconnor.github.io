@@ -58,8 +58,8 @@
 ##### Developer/Independent Contractor @ Cloud Swing, Inc `2005-2017`
 Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. [WordPress sites][tikun].
 
-##### Front End Development @ EVIDON `2017 - ongoing`
-Wrote new code and worked on legacy code base to implement AdChoices icon for clients VAST 3 and VPAID players.
+##### Front End Development @ EVIDON/CrownPeak `2017 - ongoing`
+Took ownership of legacy code base to implement [AdChoices][adchoices] for clients VAST 3. Developed several VPAID solutions VAST 2. Implemented new designs.
 
 ##### Front End Development @ Typhon Group `2016`
 Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
@@ -75,22 +75,11 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 - Tech support for publishers
 - Account management and team revenue reporting
 
-
-
-
 ##### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that tracks user interactions and ad events - and measures a campaign's effectiveness.
 
 ##### Rich Media Producer (freelance & full-time) `1996-2005`
 Macromedia Director projects, DVD, websites, video editing.
-
-
-#### Outside Interests
-- Crossfit level 1 certified instructor
-- White water rafting guide
-- Construction, infrastructure design for [large-scale art projects](http://www.thetemplecrew.org/)
-- Adventure Touring ([KLR-650](https://flic.kr/p/akv8Hk))
-
 
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
 
@@ -184,3 +173,5 @@ Macromedia Director projects, DVD, websites, video editing.
 
 
 [codepen]:https://codepen.io/cloudswing
+
+[adchoices]:https://youradchoices.com/
