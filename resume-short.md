@@ -1,13 +1,17 @@
-# Michael Connor - <small>Front-end Development, UI Design</small>
+# Michael Connor
 
-<small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]</small>
+## Front-end Development, UI Design
 
-## Skills
+<small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]
+
+
+### Skills
 
 | Technology                  | Years' experience | Skill level
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 | * ES6, Functional programming     | 2 | Advanced
+| * HTML5: canvas, audio, video    | 3 | Advanced
 | **Frameworks/libraries**
 | • React, Redux, React Router  | 1 | Intermediate
 | • Vue.JS, Riot, AngularJS | 1 | Intermediate
@@ -29,50 +33,52 @@
 | Unit testing - mocha, jest, enzyme       | 1 | Novice
 | SVG (optimization, automation, accessibility, Grunticon)      | 1 | Intermediate
 | **Terminal**
-| --- Git                    |  8 | Advanced
-| --- Package management ([Homebrew][brew]) | 3 | Advanced
-| --- NPM/Yarn                | 2 | Advanced
+| • Version Control (Git)                    |  8 | Advanced
+| • Package management ([Homebrew][brew]) | 3 | Advanced
+| • NPM/Yarn                | 2 | Advanced
 | **Media Production - Adobe CC**| 20 | Intermediate
 
-## Education
+### Education
 
 - `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies
 - University of KS - BS Business
 
-## Experience
+### Experience
 
-### Developer/Independent Contractor @ Cloud Swing, Inc `2005-2017`
+#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005- Dec 2017`
 
 Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. [WordPress sites][tikun].
 
-### Front End Development @ EVIDON/CrownPeak `2017 - ongoing`
+#### Front End Development @ EVIDON/CrownPeak `July 2017 - ongoing`
 
-Took ownership of legacy code base to implement [AdChoices][adchoices] for clients VAST 3. Developed several VPAID solutions VAST 2. Implemented new designs.
+Took ownership of legacy code base to implement [AdChoices][adchoices] for clients VAST 3. Developed several VPAID solutions for VAST 2. Implemented new designs. Helped clients work through issues with DoubleClick for Publishers and DoubleClick Campaign Manager.
 
 #### Front End Development @ Typhon Group `2016`
 
 Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
 
-#### Developer @ Reel Feed TV `2015-2016`
+#### Developer @ Reel Feed TV `Oct 2015- March 2016`
 
 Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with clients Amazon AWS account.
 
-##### Ad Technologist @ Yahoo `Jan 2012 - May 2013`
+#### Ad Technologist @ Yahoo `Jan 2012 - May 2013`
 
-- Worked on a small team producing rich media ads and implementing them into the Yahoo AdInterax system
+- Worked on a small team producing rich media ads and implementing them into the Yahoo's AdInterax system
 - Drafted new standards for internal tracking of user interaction in AdInterax
 - Produced new versions of [Yahoo Connected TV]
 - Tech support for publishers
 - Account management and team revenue reporting
 
-##### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
+#### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
 
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that tracks user interactions and ad events - and measures a campaign's effectiveness.
 
-##### Rich Media Producer (freelance & full-time) `1996-2005`
+#### Rich Media Producer (freelance & full-time) `1996-2005`
 
 Macromedia Director projects, DVD, websites, video editing.
 
+
+[wattage-calculator]:http://rocketnumber9.org/test/vue-wattage-calculator/index.html[]
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
 [linkedinURL]: https://www.linkedin.com/in/michaelgconnor
 [hyndai]: http://rocketnumber9.org/developer/touchscreen-kiosk-hyunda/
