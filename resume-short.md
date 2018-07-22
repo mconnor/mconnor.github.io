@@ -2,41 +2,50 @@
 
 ## Front-end Development, UI Design
 
-<small>**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen] | [Project Graveyard][project-archive]
+**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
+## Professional Summary
+20 years experience developing applications for the auto, pharmaceutical,
+entertainment, technology and advertising industries and rich media production; four years of experience in online
+advertising.
 
 ### Skills
 
-| Technology                  | Years' experience | Skill level
+| Technology                  | Years Experience | Skill Level
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
-| * ES6, Functional programming     | 2 | Advanced
+| * ES6+, Functional programming     | 2 | Advanced
 | * HTML5: canvas, audio, video    | 3 | Advanced
 | **Frameworks/libraries**
 | • React, Redux, React Router  | 1 | Intermediate
-| • Vue.JS, Riot, AngularJS | 1 | Intermediate
-| • JQuery                  | 4 | Advanced
-| • greensock  (animation)  | 4 | Advanced
+| • Redux  | 1 | Novice
+| • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
+| • [JQuery][jquery-gallery]              | 4 | Advanced
+| • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
+| • [CreateJS][canvas-balls]           | 1 | intermediate
 | **CSS3**                  | 1 | Intermediate
 | • Flexbox                 | 1 | Advanced
-| • Bootstrap               | 1 | Intermediate
-| • Stylelint               | 1 | Intermediate
-| • PostCSS                 | 1 | Intermediate
-| • SCSS                       | 1 | Intermediate
-| **Digital Ad Tech - VPAID, VAST** | 5 | Advanced
-| [Webpack][webpack], [Babel][babel] | 1 | Intermediate
-| Flash AS 3, 2. Apache Flex® SDK   | 8 | Advanced
+| • Bootstrap, Stylelint, PostCSS, SCSS           | 1 | Intermediate
+| Processors: Webpack, Babel | 1 | Intermediate
+| **Ad Technology** | 5 | Advanced
+| • VAST, IMA SDK for HTML5 | 5 | Advanced
+| • VPAID         | 5 | Advanced
+| • DoubleClick For Publishers         | 2 | Intermediate
+| • DoubleClick Campaign Manager         | 2 | Intermediate
+| Flash Actionscript 3, 2  | 10 | Advanced
+| • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | Node, Express, Pug        | 1 | Novice
-| REST apis                  | 3 | Intermediate
+| REST apis                 | 3 | Intermediate
 | Unit testing - mocha, jest, enzyme       | 1 | Novice
-| SVG (optimization, automation, accessibility, Grunticon)      | 1 | Intermediate
+| SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
 | **Terminal**
 | • Version Control (Git)                    |  8 | Advanced
 | • Package management ([Homebrew][brew]) | 3 | Advanced
 | • NPM/Yarn                | 2 | Advanced
-| **Media Production - Adobe CC**| 20 | Intermediate
+| Amazon AWS | 1 | novice
+| **Media Production - Adobe CC Suite **| 20 | Intermediate
 
 ### Education
 
@@ -45,23 +54,30 @@
 
 ### Experience
 
-#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005- Dec 2017`
+#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - ongoing`
 
-Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. [WordPress sites][tikun].
+- Took ownership of legacy code base to implement [AdChoices][adchoices] product clients serving VAST 3 advertising via the IMA Client-side SDK.
+- Notified and corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - upon which fixes were made that impacted the whole industry.
+- Developed a [VPAID][vpaid] solution for client’s serving legacy VAST 2 advertising
+- Implemented new designs of product overlay
+- Worked with clients directly to help them integrate the company’s product
+- Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
+- Worked with testing team to get new code from development to production
+- Branched and merged code branches with [GitHub][github]
+- Developed HMT5 video players for desktop and mobile for testing
 
-#### Front End Development @ EVIDON/CrownPeak `July 2017 - ongoing`
+#### Developer @ Typhon Group, `Metarie, LA, 2016`
 
-Took ownership of legacy code base to implement [AdChoices][adchoices] for clients VAST 3. Developed several VPAID solutions for VAST 2. Implemented new designs. Helped clients work through issues with DoubleClick for Publishers and DoubleClick Campaign Manager.
+- Worked on AngularJS code base for medical education web app
+- Worked towards 100% [AA accessibility][aria]
+- Built UI components using Angular Material, UI, Bootstrap for UI
+- Cleaned up fragile redundant code
 
-#### Front End Development @ Typhon Group `2016`
+#### Developer @ Reel Feed TV `Austraila (remote), Oct 2015- March 2016`
 
-Worked on AngularJS code base for medical education web app. Worked towards 100% [AA accessibility][aria]. Angular Material, UI Bootstrap for UI.
+Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with client's Amazon AWS account.
 
-#### Developer @ Reel Feed TV `Oct 2015- March 2016`
-
-Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with clients Amazon AWS account.
-
-#### Ad Technologist @ Yahoo `Jan 2012 - May 2013`
+#### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
 - Worked on a small team producing rich media ads and implementing them into the Yahoo's AdInterax system
 - Drafted new standards for internal tracking of user interaction in AdInterax
@@ -69,16 +85,33 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 - Tech support for publishers
 - Account management and team revenue reporting
 
-#### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
+#### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
 
-Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that tracks user interactions and ad events - and measures a campaign's effectiveness.
+Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that 
 
-#### Rich Media Producer (freelance & full-time) `1996-2005`
+- tracks user interactions and ad events 
+- measures a campaign's effectiveness.
 
-Macromedia Director projects, DVD, websites, video editing.
+#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005- Dec 2017`
+
+Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. WordPress sites
+
+#### Rich Media Producer (freelance & full-time) `NYC, 1996-2005`
+
+Macromedia Director projects, DVD, websites, video editing/compression.
 
 
-[wattage-calculator]:http://rocketnumber9.org/test/vue-wattage-calculator/index.html[]
+### Projects, Code Samples
+- Javascript: [Github][github-link] | [Code Pen][codepen]
+- [Flash Archive 1][FlashArchive1] | [Flash Archive 2][FlashArchive2]
+
+[FlashArchive1]:https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
+[FlashArchive2]:http://portfolio.rocketnumber9.org/search/flash
+[project-archive]: http://portfolio.rocketnumber9.org/
+
+
+[dfp]: https://www.google.com/intl/en/doubleclick/publishers/welcome/
+[dcm]: https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
 [linkedinURL]: https://www.linkedin.com/in/michaelgconnor
 [hyndai]: http://rocketnumber9.org/developer/touchscreen-kiosk-hyunda/
@@ -94,7 +127,6 @@ Macromedia Director projects, DVD, websites, video editing.
 [Yahoo Connected TV]: https://smarttv.yahoo.com/
 [zitgame]: http://i.imgur.com/vRHv0Igt.jpg "Face Book Game"
 [pharmaAppTumblr]: http://68.media.tumblr.com/tumblr_lnnyjzj10N1qh4spho1_1280.jpg
-[project-archive]: http://portfolio.rocketnumber9.org/
 [pharma-app]: http://rocketnumber9.org/developer/as3-interactive-video/
 [rocket9Dev]: http://rocketnumber9.org/developer/
 [eyeblaster-stetchybanner]: http://rocketnumber9.org/client/eyeblaster/stretchableBanner/
@@ -103,6 +135,7 @@ Macromedia Director projects, DVD, websites, video editing.
 [digvideo]: http://rocketnumber9.org/client/dig.htm
 [contact]: http://rocketnumber9.org/contact/
 [github-link]: https://github.com/mconnor
+[github]: https://github.com/
 [genesis]: http://www.studiopress.com/faqs/
 [gssp]: https://greensock.com/gsap
 [brew]: http://brew.sh/
@@ -120,9 +153,16 @@ Macromedia Director projects, DVD, websites, video editing.
 [pgpkey]:https://twitter.com/cloud_swing/status/842115087632605186
 [aurelia]:http://aurelia.io/
 [riot]:http://riotjs.com/
+[vue-wattage]:http://rocketnumber9.org/test/vue-wattage-calculator/index.html "wattage calculator"
 [tictactoe]:https://mconnor.github.io/tic-tac-toe/
 [aria]:https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
-[brew]:https://brew.sh/
-[d3]:https://d3js.org/
-[codepen]:https://codepen.io/cloudswing
-[adchoices]:https://youradchoices.com/
+[brew]: https://brew.sh/
+[d3]: https://d3js.org/
+[codepen]: https://codepen.io/cloudswing
+[adchoices]: https://youradchoices.com/
+[svg-bm]: http://rocketnumber9.org/codesamples/grunticon/
+[jquery-gallery]: http://rocketnumber9.org/sample/responsivePhotoGallery/ "responsive phot gallery"
+[canvas-balls]: http://rocketnumber9.org/test/animation01/box2dCanvas/game.html "bouncing balls"
+[fizzbuzz]: http://rocketnumber9.org/test/jschallenges/fizzBuzz/fizzbuzz.html "greensock animation"
+[imasdk]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/ "Google IMA SDK for HTML5 V3"
+[imaforum]: https://groups.google.com/forum/#!forum/ima-sdk "Google Interactive Media Ads SDK Technical Forum"
