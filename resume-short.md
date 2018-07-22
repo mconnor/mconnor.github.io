@@ -103,7 +103,7 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 
 ### Projects, Code Samples
 - Javascript: [Github][github-link] | [Code Pen][codepen]
-- [Flash Archive 1][FlashArchive1] | [Flash Archive 2][FlashArchive2]
+- Flash: [Archive 1][FlashArchive1] | [Archive 2][FlashArchive2]
 
 [FlashArchive1]:https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
 [FlashArchive2]:http://portfolio.rocketnumber9.org/search/flash
@@ -160,8 +160,8 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [d3]: https://d3js.org/
 [codepen]: https://codepen.io/cloudswing
 [adchoices]: https://youradchoices.com/
-[svg-bm]: http://rocketnumber9.org/codesamples/grunticon/
-[jquery-gallery]: http://rocketnumber9.org/sample/responsivePhotoGallery/ "responsive phot gallery"
+[svg-bm]: http://rocketnumber9.org/codesamples/grunticon/ "svg animation"
+[jquery-gallery]: http://rocketnumber9.org/sample/responsivePhotoGallery/ "responsive photo gallery"
 [canvas-balls]: http://rocketnumber9.org/test/animation01/box2dCanvas/game.html "bouncing balls"
 [fizzbuzz]: http://rocketnumber9.org/test/jschallenges/fizzBuzz/fizzbuzz.html "greensock animation"
 [imasdk]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/ "Google IMA SDK for HTML5 V3"
