@@ -5,7 +5,8 @@
 **New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
 ## Professional Summary
-20 years experience developing applications for the auto, pharmaceutical,
+
+Twenty years experience developing applications for the auto, pharmaceutical,
 entertainment, technology and advertising industries and rich media production; four years of experience in online
 advertising.
 
@@ -87,7 +88,7 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 
 #### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
 
-Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that 
+Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that:
 
 - tracks user interactions and ad events 
 - measures a campaign's effectiveness.
