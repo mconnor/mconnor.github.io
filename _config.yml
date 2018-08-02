@@ -26,19 +26,19 @@ github.is_project_page: false
 
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-hackcss
+kramdown:
+  auto_ids:     true
+encoding:       UTF-8
 theme: jekyll-theme-architect
-#theme: jekyll-theme-hacker
-#theme: jekyll-theme-modernist
-#theme: minima
-#theme: jekyll-theme-slate
-#theme: console-theme
-
-
-
+plugins_dir:
+  - jekyll-seo-tag
 gems:
   - jekyll-feed
   - jekyll-octicons
 exclude:
   - Gemfile
   - Gemfile.lock
+  - .git/
+  - package.json
+  - package-lock.json
+  - node_modules

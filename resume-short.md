@@ -2,7 +2,7 @@
 
 ## Front-end Development, UI Design
 
-**New Orleans, LA** | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
+**New Orleans, LA** - | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
 ## Professional Summary
 
@@ -14,9 +14,9 @@ advertising.
 
 | Technology                  | Years Experience | Skill Level
 | ------------- |:-------------:| -----:|
-| **Javascript**                    | 3 | Advanced
-| * ES6+, Functional programming     | 2 | Advanced
-| * HTML5: canvas, audio, video    | 3 | Advanced
+| **Javascript* -                    | 3 | Advanced
+|  - ES6+, Functional programming     | 2 | Advanced
+|  - HTML5: canvas, audio, video    | 3 | Advanced
 | **Frameworks/libraries**
 | • React, Redux, React Router  | 1 | Intermediate
 | • Redux  | 1 | Novice
@@ -25,11 +25,11 @@ advertising.
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
 | • [CreateJS][canvas-balls]           | 1 | intermediate
-| **CSS3**                  | 1 | Intermediate
+| **CSS3* -                  | 1 | Intermediate
 | • Flexbox                 | 1 | Advanced
 | • Bootstrap, Stylelint, PostCSS, SCSS           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
-| **Ad Technology** | 5 | Advanced
+| **Ad Technology* - | 5 | Advanced
 | • VAST, IMA SDK for HTML5 | 5 | Advanced
 | • VPAID         | 5 | Advanced
 | • DoubleClick For Publishers         | 2 | Intermediate
@@ -46,6 +46,7 @@ advertising.
 | • Package management ([Homebrew][brew]) | 3 | Advanced
 | • NPM/Yarn                | 2 | Advanced
 | Amazon AWS | 1 | novice
+  Project Mangement (Slack | Trello | Jira)    |  2 | Intermediate
 | **Media Production - Adobe CC Suite **| 20 | Intermediate
 
 ### Education
@@ -80,17 +81,21 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 
 #### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
-- Worked on a small team producing rich media ads and implementing them into the Yahoo's AdInterax system
-- Drafted new standards for internal tracking of user interaction in AdInterax
-- Produced new versions of [Yahoo Connected TV]
-- Tech support for publishers
-- Account management and team revenue reporting
+- Built Flash Rich media ad executions for Yahoo properties.
+- Responsible for building Rich Media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Pushdown, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
+- Implemented ads into Yahoo's backend AdInterax system
+- Debugged rich media ads built by third ad houses.
+- Worked on a small team that contributed $40 million in annual revenue to the company.
+- Provided support to Adinterax clients
+- Drafted new standards for internal tracking of ad progression and interaction in Adinterax.
+- Took over new account management responsibilities after supervisor departed the company.
+- Provided support for external publishers
 
 #### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
 
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that:
 
-- tracks user interactions and ad events 
+- tracks user interactions and ad events
 - measures a campaign's effectiveness.
 
 #### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005- Dec 2017`
@@ -101,16 +106,14 @@ Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interact
 
 Macromedia Director projects, DVD, websites, video editing/compression.
 
-
 ### Projects, Code Samples
+
 - Javascript: [Github][github-link] | [Code Pen][codepen]
 - Flash: [Archive 1][FlashArchive1] | [Archive 2][FlashArchive2]
 
 [FlashArchive1]:https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
 [FlashArchive2]:http://portfolio.rocketnumber9.org/search/flash
 [project-archive]: http://portfolio.rocketnumber9.org/
-
-
 [dfp]: https://www.google.com/intl/en/doubleclick/publishers/welcome/
 [dcm]: https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/
 [elauder]: http://rocketnumber9.org/sample/esteelauder/ "Estée Lauder"
