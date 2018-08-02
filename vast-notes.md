@@ -12,10 +12,8 @@ creativeType="image/png" -- Displays. Clicks thru correctly. Currently the only 
 Positioning is done with the xPostion yPosition attributes in VAST xml.
 Problems with this solution?
 
-
 creativeType="application/x-javascript"
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
-
 
 **IFrameResource**
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
@@ -24,29 +22,24 @@ Displays. Image w/ styling appears. Icon clickthru does NOT work.
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
 Note - link to an external HTML. Do not put HTML in
 
-
 See conversation with Google dev [blinny][blinny-forum]
-He was recommending using **<StaticResource>** and creativeType="application/x-javascript"
+He was recommending using **\<StaticResource\>** and creativeType="application/x-javascript"
 
-
-`<Icon program="AdChoices" width="60" height="20" xPosition="2" yPosition="2">
+```<Icon program="AdChoices" width="60" height="20" xPosition="2" yPosition="2">
 <StaticResource creativeType="application/x-javascript">
 <![CDATA[
 http://http://rocketnumber9.org/vast-test/blinny/icon.html
 ]]>
-</StaticResource>`
+</StaticResource>```
 
 Conclusion... Image and js load. I icon click through is still obscured
 
-
-## Possible Fix in [IMA Player][ima-release]?
+## xxxxPossible Fix in [IMA Player][ima-release]?
 In the support forum, [a google dev has said the icon problem is fixed](https://developers.google.com/interactive-media-ads/docs/sdks/html5/community?place=msg%2Fima-sdk%2FMHMKZ2hy8KI%2FRjMpjczHAwAJ) and a release has been made. Except - that it hasn't.
 Continued pestering of their dev team is recommended. This should work. It's in the VAST 3 spec.
 
 ## Possible Solution -  Custom js solution
  create a method that used a regex to parse through the VAST, find that icon node, pick the first one, inject the javascript/display the icon. Then you can approach these player folks with a method they can just drop right into their player code and have it work out of the box.
-
-
 
 ## CORS - Cross Origin Resource Sharing (CORS) for JavaScript
 
