@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/mconnor/mconnor.github.io",
   "author": "mike connor <mike@rocketnumber9.org>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
 }
