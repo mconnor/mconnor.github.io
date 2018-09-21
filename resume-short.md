@@ -14,22 +14,22 @@ advertising.
 
 | Technology                  | Years Experience | Skill Level
 | ------------- |:-------------:| -----:|
-| **Javascript* -                    | 3 | Advanced
+| **Javascript**                    | 3 | Advanced
 |  - ES6+, Functional programming     | 2 | Advanced
 |  - HTML5: canvas, audio, video    | 3 | Advanced
-| **Frameworks/libraries**
+| **Frameworks/libraries** |
 | • React, Redux, React Router  | 1 | Intermediate
-| • Redux  | 1 | Novice
+| • Redux  | 1 | Novice |
 | • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
 | • [JQuery][jquery-gallery]              | 4 | Advanced
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
-| • [CreateJS][canvas-balls]           | 1 | intermediate
+| • [CreateJS][canvas-balls]           | 1 | Intermediate
 | **CSS3* -                  | 1 | Intermediate
 | • Flexbox                 | 1 | Advanced
 | • Bootstrap, Stylelint, PostCSS, SCSS           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
-| **Ad Technology* - | 5 | Advanced
+| **Ad Technology**  | 5 | Advanced
 | • VAST, IMA SDK for HTML5 | 5 | Advanced
 | • VPAID         | 5 | Advanced
 | • DoubleClick For Publishers         | 2 | Intermediate
@@ -37,16 +37,16 @@ advertising.
 | Flash Actionscript 3, 2  | 10 | Advanced
 | • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-| Node, Express, Pug        | 1 | Novice
+| Node, Express, Pug        | 1 | Novice |
 | REST apis                 | 3 | Intermediate
-| Unit testing - mocha, jest, enzyme       | 1 | Novice
+| Unit testing - mocha, jest, enzyme       | 1 | Novice |
 | SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
-| **Terminal**
+| **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
 | • Package management ([Homebrew][brew]) | 3 | Advanced
 | • NPM/Yarn                | 2 | Advanced
-| Amazon AWS | 1 | novice
-  Project Mangement (Slack | Trello | Jira)    |  2 | Intermediate
+| Amazon AWS | 1 | Novice |
+| Project Mangement (Slack | Trello | Jira)    |  2 | Intermediate
 | **Media Production - Adobe CC Suite **| 20 | Intermediate
 
 ### Education
@@ -56,7 +56,7 @@ advertising.
 
 ### Experience
 
-#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - ongoing`
+#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug. 2018`
 
 - Took ownership of legacy code base to implement [AdChoices][adchoices] product clients serving VAST 3 advertising via the IMA Client-side SDK.
 - Notified and corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - upon which fixes were made that impacted the whole industry.
