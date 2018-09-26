@@ -7,7 +7,7 @@
 ## Professional Summary
 
 Twenty years experience developing applications for the auto, pharmaceutical,
-entertainment, technology and advertising industries and rich media production; four years of experience in online
+entertainment, technology and advertising industries; five years of experience in online
 advertising.
 
 ### Skills
@@ -58,8 +58,8 @@ advertising.
 
 #### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug. 2018`
 
-- Took ownership of legacy code base to implement [AdChoices][adchoices] product clients serving VAST 3 advertising via the IMA Client-side SDK.
-- Notified and corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - upon which fixes were made that impacted the whole industry.
+- Took ownership of legacy code base to enable [AdChoices][adchoices] product for clients serving VAST 3 advertising via the IMA Client-side SDK.
+- Corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - resulting in fixes that impacted the whole industry.
 - Developed a [VPAID][vpaid] solution for client’s serving legacy VAST 2 advertising
 - Implemented new designs of product overlay
 - Worked with clients directly to help them integrate the company’s product
@@ -86,10 +86,10 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 - Implemented ads into Yahoo's backend AdInterax system
 - Debugged rich media ads built by third ad houses.
 - Worked on a small team that contributed $40 million in annual revenue to the company.
-- Provided support to Adinterax clients
+- Support for Adinterax clients
 - Drafted new standards for internal tracking of ad progression and interaction in Adinterax.
 - Took over new account management responsibilities after supervisor departed the company.
-- Provided support for external publishers
+- Support for external publishers
 
 #### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
 
