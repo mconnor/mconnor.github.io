@@ -16,10 +16,13 @@ advertising.
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 |  - ES6+, Functional programming     | 2 | Advanced
-|  - HTML5: canvas, audio, video    | 3 | Advanced
+|  - HTML5: canvas, audio, video    | 3 | Advance| 
 | **Frameworks/libraries** |
-| • React, Redux, React Router  | 1 | Intermediate
+| • React, React Router  | 1 | Intermediate
 | • Redux  | 1 | Novice |
+| • [Next.js][next-js]  | 1 | Novice |
+| • Apollo Client  | 1 | Novice |
+| • GraphQL Yoga - Prisma | 1 | Novice |
 | • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
 | • [JQuery][jquery-gallery]              | 4 | Advanced
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
@@ -27,7 +30,7 @@ advertising.
 | • [CreateJS][canvas-balls]           | 1 | Intermediate
 | **CSS3* -                  | 1 | Intermediate
 | • Flexbox                 | 1 | Advanced
-| • Bootstrap, Stylelint, PostCSS, SCSS           | 1 | Intermediate
+| • Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
 | **Ad Technology**  | 5 | Advanced
 | • VAST, IMA SDK for HTML5 | 5 | Advanced
@@ -46,7 +49,7 @@ advertising.
 | • Package management ([Homebrew][brew]) | 3 | Advanced
 | • NPM/Yarn                | 2 | Advanced
 | Amazon AWS | 1 | Novice |
-| Project Mangement (Slack | Trello | Jira)    |  2 | Intermediate
+| Project Mangement (Slack - Trello - Jira)    |  2 | Intermediate
 | **Media Production - Adobe CC Suite **| 20 | Intermediate
 
 ### Education
@@ -170,3 +173,4 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [fizzbuzz]: http://rocketnumber9.org/test/jschallenges/fizzBuzz/fizzbuzz.html "greensock animation"
 [imasdk]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/ "Google IMA SDK for HTML5 V3"
 [imaforum]: https://groups.google.com/forum/#!forum/ima-sdk "Google Interactive Media Ads SDK Technical Forum"
+[next-js]: https://nextjs.org/ "Next JS"
