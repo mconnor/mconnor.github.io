@@ -69,16 +69,16 @@ advertising.
 - Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
 - Worked with testing team to get new code from development to production
 - Branched and merged code branches with [GitHub][github]
-- Developed HMT5 video players for desktop and mobile for testing
+- Developed HMTL5 video players desktop and mobile for testing
 
-#### Developer @ Typhon Group, `Metarie, LA, 2016`
+#### Developer @ Typhon Group, `New Orleans, LA, 2016`
 
 - Worked on AngularJS code base for medical education web app
 - Worked towards 100% [AA accessibility][aria]
 - Built UI components using Angular Material, UI, Bootstrap for UI
 - Cleaned up fragile redundant code
 
-#### Developer @ Reel Feed TV `Austraila (remote), Oct 2015- March 2016`
+#### Developer @ Reel Feed TV `Australia (remote), Oct 2015- March 2016`
 
 Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with client's Amazon AWS account.
 
