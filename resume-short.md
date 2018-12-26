@@ -41,8 +41,7 @@ advertising.
 | • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | Node, Express, Pug        | 1 | Novice |
-| REST apis                 | 3 | Intermediate
-| Unit testing - mocha, jest, enzyme       | 1 | Novice |
+| Unit testing -  jest       | 1 | Intermediate |
 | SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
 | **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
