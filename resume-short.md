@@ -15,10 +15,10 @@ advertising.
 | Technology                  | Years Experience | Skill Level
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
-|  - ES6+, Functional programming     | 2 | Advanced
+|  - ES6+ javascript/typescript  | 2 | Advanced
 |  - HTML5: canvas, audio, video    | 3 | Advance| 
 | **Frameworks/libraries** |
-| • React, React Router  | 1 | Intermediate
+| • React | 1 | Intermediate
 | • Redux  | 1 | Novice |
 | • [Next.js][next-js]  | 1 | Novice |
 | • Apollo Client  | 1 | Novice |
@@ -28,9 +28,10 @@ advertising.
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
 | • [CreateJS][canvas-balls]           | 1 | Intermediate
-| **CSS3* -                  | 1 | Intermediate
-| • Flexbox                 | 1 | Advanced
-| • Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
+| **CSS3* -                  | 1 | Advanced
+| • Flexbox                 | 1 | Intermediate
+| • Grid                 | 1 | Intermediate
+| Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
 | **Ad Technology**  | 5 | Advanced
 | • VAST, IMA SDK for HTML5 | 5 | Advanced
@@ -111,7 +112,7 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 ### Projects, Code Samples
 
 - Javascript: [Github][github-link] | [Code Pen][codepen]
-- Flash: [Archive 1][FlashArchive1] | [Archive 2][FlashArchive2]
+- Flash: [Archive][FlashArchive1]
 
 [FlashArchive1]:https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
 [FlashArchive2]:http://portfolio.rocketnumber9.org/search/flash
