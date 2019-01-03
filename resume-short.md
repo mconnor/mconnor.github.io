@@ -4,12 +4,6 @@
 
 **New Orleans, LA** - | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
-## Professional Summary
-
-Twenty years experience developing applications for the auto, pharmaceutical,
-entertainment, technology and advertising industries; five years of experience in online
-advertising.
-
 ### Skills
 
 | Technology                  | Years Experience | Skill Level
@@ -28,9 +22,10 @@ advertising.
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Intermediate
 | • [CreateJS][canvas-balls]           | 1 | Intermediate
-| **CSS3* -                  | 1 | Advanced
+| **CSS3** -                  | 1 | Advanced
 | • Flexbox                 | 1 | Intermediate
 | • Grid                 | 1 | Intermediate
+| • CSS Modules (React)                 | 1 | Intermediate
 | Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
 | **Ad Technology**  | 5 | Advanced
@@ -51,6 +46,13 @@ advertising.
 | Amazon AWS | 1 | Novice |
 | Project Mangement (Slack - Trello - Jira)    |  2 | Intermediate
 | **Media Production - Adobe CC Suite **| 20 | Intermediate
+
+### Professional Summary
+
+Twenty years experience developing applications for the auto, pharmaceutical,
+entertainment industries; five years of experience in digital video advertising.
+
+******
 
 ### Education
 
