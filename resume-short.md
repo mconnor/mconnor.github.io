@@ -2,11 +2,11 @@
 
 ## Front-end Development, UI Design
 
-**New Orleans, LA** - | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
+**New Orleans, LA**  | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
 ### Skills
 
-| Technology                  | Years Experience | Skill Level
+| Technology                  | &nbsp; Years Experience &nbsp; | &nbsp; Skill &nbsp; Level
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 |  - ES6+ javascript/typescript  | 2 | Advanced
@@ -24,7 +24,7 @@
 | • Data visualization - [D3][d3] charting      | 1 | Novice
 | **CSS3** -                  | 1 | Advanced
 | • Flexbox - Grid              | 1 | Intermediate
-| • CSS Modules (React)                 | 1 | Intermediate
+| • CSS Modules                 | 1 | Intermediate
 | Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
 | **Ad Technology**  | 5 | Advanced
