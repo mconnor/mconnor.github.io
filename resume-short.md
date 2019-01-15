@@ -10,21 +10,20 @@
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 |  - ES6+ javascript/typescript  | 2 | Advanced
-|  - HTML5: canvas, audio, video    | 3 | Advance| 
+|  - HTML5: canvas, audio, video    | 3 | Advance|
 | **Frameworks/libraries** |
 | • React | 1 | Intermediate
 | • Redux  | 1 | Novice |
+| • Gatsby  | 1 | Novice |
 | • [Next.js][next-js]  | 1 | Novice |
 | • Apollo Client  | 1 | Novice |
 | • GraphQL Yoga - Prisma | 1 | Novice |
 | • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
 | • [JQuery][jquery-gallery]              | 4 | Advanced
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
-| • Data visualization - [D3][d3] charting      | 1 | Intermediate
-| • [CreateJS][canvas-balls]           | 1 | Intermediate
+| • Data visualization - [D3][d3] charting      | 1 | Novice
 | **CSS3** -                  | 1 | Advanced
-| • Flexbox                 | 1 | Intermediate
-| • Grid                 | 1 | Intermediate
+| • Flexbox - Grid              | 1 | Intermediate
 | • CSS Modules (React)                 | 1 | Intermediate
 | Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
 | Processors: Webpack, Babel | 1 | Intermediate
@@ -41,9 +40,9 @@
 | SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
 | **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
-| • Package management ([Homebrew][brew]) | 3 | Advanced
-| • NPM/Yarn                | 2 | Advanced
+| • Package management: Homebrew, NPM| 3 | Advanced
 | Amazon AWS | 1 | Novice |
+| Serverless | 1 | Novice |
 | Project Mangement (Slack - Trello - Jira)    |  2 | Intermediate
 | **Media Production - Adobe CC Suite **| 20 | Intermediate
 
@@ -52,7 +51,7 @@
 Twenty years experience developing applications for the auto, pharmaceutical,
 entertainment industries; five years of experience in digital video advertising.
 
-******
+<div style="page-break-after: always;"></div>
 
 ### Education
 
