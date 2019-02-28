@@ -2,28 +2,32 @@
 
 Three possible resources
 
-/StaticResource
-/IFrameResource
-/HTMLResource
+- StaticResource
+- IFrameResource
+- HTMLResource
 
-**StaticResource** -
+## StaticResource
 
-creativeType="image/png" -- Displays. Clicks thru correctly. Currently the only solution.
+### creativeType="image/png"
+
+Displays. Clicks thru correctly. Currently the only solution.
 Positioning is done with the xPostion yPosition attributes in VAST xml.
 Problems with this solution?
 
 creativeType="application/x-javascript"
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
 
-**IFrameResource**
+## IFrameResource
+
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
 
-**HTMLResource** -
+## HTMLResource
+
 Displays. Image w/ styling appears. Icon clickthru does NOT work.
 Note - link to an external HTML. Do not put HTML in
 
 See conversation with Google dev [blinny][blinny-forum]
-He was recommending using **\<StaticResource\>** and creativeType="application/x-javascript"
+He was recommending using **StaticResource** and **creativeType="application/x-javascript"**
 
 ```<Icon program="AdChoices" width="60" height="20" xPosition="2" yPosition="2">
 <StaticResource creativeType="application/x-javascript">
@@ -34,7 +38,7 @@ http://http://rocketnumber9.org/vast-test/blinny/icon.html
 
 Conclusion... Image and js load. I icon click through is still obscured
 
-## xxxxPossible Fix in [IMA Player][ima-release]?
+## Possible Fix in [IMA Player][ima-release]?
 In the support forum, [a google dev has said the icon problem is fixed](https://developers.google.com/interactive-media-ads/docs/sdks/html5/community?place=msg%2Fima-sdk%2FMHMKZ2hy8KI%2FRjMpjczHAwAJ) and a release has been made. Except - that it hasn't.
 Continued pestering of their dev team is recommended. This should work. It's in the VAST 3 spec.
 

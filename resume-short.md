@@ -9,12 +9,13 @@
 | Technology                  | &nbsp; Years Experience &nbsp; | &nbsp; Skill &nbsp; Level
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
-|  - ES6+ javascript/typescript  | 2 | Advanced
+|  - ES6+ javascript  | 2 | Advanced
 |  - HTML5: canvas, audio, video    | 3 | Advance|
 | **Frameworks/libraries** |
 | • React | 1 | Intermediate
 | • Redux  | 1 | Novice |
 | • Gatsby  | 1 | Novice |
+| • [Flow static type checking][flow] | 1 | Intermediate
 | • [Next.js][next-js]  | 1 | Novice |
 | • Apollo Client  | 1 | Novice |
 | • GraphQL Yoga - Prisma | 1 | Novice |
@@ -41,6 +42,7 @@
 | **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
 | • Package management: Homebrew, NPM| 3 | Advanced
+| • [Bit][bit]: React component collaboration| 1 | novice
 | Amazon AWS | 1 | Novice |
 | Serverless | 1 | Novice |
 | Project Mangement (Slack - Trello - Jira)    |  2 | Intermediate
@@ -60,7 +62,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 ### Experience
 
-#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug. 2018`
+#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 -`
 
 - Took ownership of legacy code base to enable [AdChoices][adchoices] product for clients serving VAST 3 advertising via the IMA Client-side SDK.
 - Corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - resulting in fixes that impacted the whole industry.
@@ -115,8 +117,9 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 - Javascript: [Github][github-link] | [Code Pen][codepen]
 - Flash: [Archive][FlashArchive1]
 
-[FlashArchive1]:https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
-[FlashArchive2]:http://portfolio.rocketnumber9.org/search/flash
+[bit]: https://bitsrc.io/s
+[FlashArchive1]: https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
+[FlashArchive2]: http://portfolio.rocketnumber9.org/search/flash
 [project-archive]: http://portfolio.rocketnumber9.org/
 [dfp]: https://www.google.com/intl/en/doubleclick/publishers/welcome/
 [dcm]: https://www.doubleclickbygoogle.com/solutions/digital-marketing/campaign-manager/
@@ -175,3 +178,4 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [imasdk]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/ "Google IMA SDK for HTML5 V3"
 [imaforum]: https://groups.google.com/forum/#!forum/ima-sdk "Google Interactive Media Ads SDK Technical Forum"
 [next-js]: https://nextjs.org/ "Next JS"
+[flow]: https://flow.org/en/
