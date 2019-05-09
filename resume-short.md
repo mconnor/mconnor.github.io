@@ -53,8 +53,6 @@
 Twenty years experience developing applications for the auto, pharmaceutical,
 entertainment industries; five years of experience in digital video advertising.
 
-<div style="page-break-after: always;"></div>
-
 ### Education
 
 - `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies
