@@ -2,14 +2,15 @@
 
 ## New Orleans, LA
 
-Twenty years experience developing applications for the auto, pharmaceutical, entertainment, technology and advertising industries and rich media production.
+Front-end developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries.
 
-Several years experiences in digital advertising developing VAST/VPAID applications.
+Constantly tinkering with new technologies.
 
-Currently deep diving into front-end development with React.js. Moving towards full-stack development (Apollo Client,GraphQL, Prisma). I'm constantly tinkering with new technologies. I am a big fan of vanilla JS and functional programming. I'm agnostic as to frameworks, but looking for a role on a team building apps with ES6 javascript, CSS, HTML.
+Currently deep diving with React Hooks, unit/integration testing, and static type checking, and in general moving towards a functional style of coding.
 
-Toolkit: VScode, terminal, [GitHub][github-link]
+Also moving towards full-stack development (Apollo Client,GraphQL, Prisma).
 
-Mac power user. Experienced in unix. Experienced photo and AV editor with AdobeCC Creative Suite.
+Several years experiences in digital advertising developing VAST/VPAID applications and working with industry tools such as Doubleclick.
+
 
 [github-link]: https://github.com/mconnor
