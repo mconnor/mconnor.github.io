@@ -10,12 +10,14 @@
 | ------------- |:-------------:| -----:|
 | **Javascript**                    | 3 | Advanced
 |  - ES6+ javascript  | 2 | Advanced
-|  - HTML5: canvas, audio, video    | 3 | Advance|
+|  - HTML5: canvas, audio, video    | 3 | Advanced|
 | **Frameworks/libraries** |
 | • React | 1 | Intermediate
+| • [React Hooks][hooks] | 1 | Intermediate
 | • Redux  | 1 | Novice |
 | • Gatsby  | 1 | Novice |
-| • [Flow static type checking][flow] | 1 | Intermediate
+| • [Flow - static type checking][flow] | 1 | Intermediate
+| • [Typescript][typescript] | 1 | Intermediate
 | • [Next.js][next-js]  | 1 | Novice |
 | • Apollo Client  | 1 | Novice |
 | • GraphQL Yoga - Prisma | 1 | Novice |
@@ -23,30 +25,24 @@
 | • [JQuery][jquery-gallery]              | 4 | Advanced
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Novice
-| **CSS3** -                  | 1 | Advanced
-| • Flexbox - Grid              | 1 | Intermediate
-| • CSS Modules                 | 1 | Intermediate
-| Bootstrap, Stylelint, PostCSS, SCSS, Styled Components           | 1 | Intermediate
-| Processors: Webpack, Babel | 1 | Intermediate
+| **CSS3**                 | 1 | Advanced
+| CSS Preprocessors                 | 1 | Intermediate
 | **Ad Technology**  | 5 | Advanced
-| • VAST, IMA SDK for HTML5 | 5 | Advanced
-| • VPAID         | 5 | Advanced
-| • DoubleClick For Publishers         | 2 | Intermediate
-| • DoubleClick Campaign Manager         | 2 | Intermediate
-| Flash Actionscript 3, 2  | 10 | Advanced
+| • VPAID, VAST, IMA SDK for HTML5 | 5 | Advanced
+| • DoubleClick For Publishers         | 2 | Intermediate, Campaign Manager  
 | • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-| Node, Express, Pug        | 1 | Novice |
-| Unit testing -  jest       | 1 | Intermediate |
+| Node       | 1 | Novice |
+| Unit, integration testing -  jest, React-testing library       | 1 | Novice |
 | SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
 | **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
 | • Package management: Homebrew, NPM| 3 | Advanced
-| • [Bit][bit]: React component collaboration| 1 | novice
 | Amazon AWS | 1 | Novice |
 | Serverless | 1 | Novice |
-| Project Mangement (Slack - Trello - Jira)    |  2 | Intermediate
-| **Media Production - Adobe CC Suite **| 20 | Intermediate
+| Project Management (Slack - Trello - Jira)    |  2 | Intermediate
+| Action-script 3, 2  | 10 | Advanced
+| **Media Production - Adobe CC Suite**| 20 | Intermediate
 
 ### Professional Summary
 
@@ -86,13 +82,13 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 #### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
 - Built Flash Rich media ad executions for Yahoo properties.
-- Responsible for building Rich Media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Pushdown, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
+- Responsible for building Rich Media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Push-down, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
 - Implemented ads into Yahoo's backend AdInterax system
 - Debugged rich media ads built by third ad houses.
 - Worked on a small team that contributed $40 million in annual revenue to the company.
 - Support for Adinterax clients
 - Drafted new standards for internal tracking of ad progression and interaction in Adinterax.
-- Took over new account management responsibilities after supervisor departed the company.
+- Took over  account management responsibilities after supervisor departed the company.
 - Support for external publishers
 
 #### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
@@ -177,3 +173,6 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [imaforum]: https://groups.google.com/forum/#!forum/ima-sdk "Google Interactive Media Ads SDK Technical Forum"
 [next-js]: https://nextjs.org/ "Next JS"
 [flow]: https://flow.org/en/
+[typescript]: https://www.typescriptlang.org
+
+[hooks]: https://reactjs.org/docs/hooks-intro.html
