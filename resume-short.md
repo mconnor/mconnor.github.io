@@ -14,15 +14,15 @@
 | **Frameworks/libraries** |
 | • React | 1 | Intermediate
 | • [React Hooks][hooks] | 1 | Intermediate
+| • Gatsby, [Next.js][next-js]  | 1 | Novice |
 | • Redux  | 1 | Novice |
-| • Gatsby  | 1 | Novice |
-| • [Flow - static type checking][flow] | 1 | Intermediate
-| • [Typescript][typescript] | 1 | Intermediate
-| • [Next.js][next-js]  | 1 | Novice |
+| • static type checking: [Flow][flow], [Typescript][typescript] | 1 | Intermediate
+| • Unit, integration testing -  jest, React-testing library       | 1 | Intermediate |
+| • [Typescript][typescript] | 1 | novice
 | • Apollo Client  | 1 | Novice |
 | • GraphQL Yoga - Prisma | 1 | Novice |
 | • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
-| • [JQuery][jquery-gallery]              | 4 | Advanced
+| • [JQuery][jquery-gallery]  | 4 | Advanced
 | • [GSAP greensock][fizzbuzz]  | 4 | Advanced
 | • Data visualization - [D3][d3] charting      | 1 | Novice
 | **CSS3**                 | 1 | Advanced
@@ -33,7 +33,6 @@
 | • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
 | WordPress - [Genesis framework][genesis]     | 2 | Intermediate
 | Node       | 1 | Novice |
-| Unit, integration testing -  jest, React-testing library       | 1 | Novice |
 | SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
 | **Terminal**|
 | • Version Control (Git)                    |  8 | Advanced
@@ -56,7 +55,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 ### Experience
 
-#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 -`
+#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
 
 - Took ownership of legacy code base to enable [AdChoices][adchoices] product for clients serving VAST 3 advertising via the IMA Client-side SDK.
 - Corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - resulting in fixes that impacted the whole industry.
