@@ -13,9 +13,10 @@
 |  - HTML5: canvas, audio, video    | 3 | Advanced|
 | **Frameworks/libraries** |
 | • React | 1 | Intermediate
-| • [React Hooks][hooks] | 1 | Intermediate
+| • [React Hooks][hooks-example] | 1 | Intermediate
 | • Gatsby, [Next.js][next-js]  | 1 | Novice |
 | • Redux  | 1 | Novice |
+| • [React Spring][spring] - physics based animation  | 1 | Novice |
 | • static type checking: [Flow][flow], [Typescript][typescript] | 1 | Intermediate
 | • Unit, integration testing -  jest, React-testing library       | 1 | Intermediate |
 | • [Typescript][typescript] | 1 | novice
@@ -175,3 +176,6 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [typescript]: https://www.typescriptlang.org
 
 [hooks]: https://reactjs.org/docs/hooks-intro.html
+[spring]: https://www.react-spring.io
+
+[hooks-example]:https://hooks-wine-store.mconnor.now.sh/
