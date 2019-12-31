@@ -2,47 +2,49 @@
 
 ## Front-end Development, UI Design
 
-**New Orleans, LA**  | mike@cloudswing.info |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
+**New Orleans, LA** (tel: 503-956-8939)
+
+[mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
 
 ### Skills
 
-| Technology                  | &nbsp; Years Experience &nbsp; | &nbsp; Skill &nbsp; Level
-| ------------- |:-------------:| -----:|
-| **Javascript**                    | 3 | Advanced
-|  - ES6+ javascript  | 2 | Advanced
-|  - HTML5: canvas, audio, video    | 3 | Advanced|
+| Technology                  | &nbsp; Skill &nbsp; Level
+| ------------- | -----:|
+| **Javascript**                    |  Advanced
+|  - ES6+ javascript  | Advanced
+|  - HTML5: canvas, audio, video    |  Advanced|
 | **Frameworks/libraries** |
-| • React | 1 | Intermediate
-| • [React Hooks][hooks-example] | 1 | Intermediate
-| • Gatsby, [Next.js][next-js]  | 1 | Novice |
-| • Redux  | 1 | Novice |
-| • [React Spring][spring] - physics based animation  | 1 | Novice |
-| • static type checking: [Flow][flow], [Typescript][typescript] | 1 | Intermediate
-| • Unit, integration testing -  jest, React-testing library       | 1 | Intermediate |
-| • [Typescript][typescript] | 1 | novice
-| • Apollo Client  | 1 | Novice |
-| • GraphQL Yoga - Prisma | 1 | Novice |
-| • [Vue.JS][vue-wattage], Riot, AngularJS | 1 | Intermediate
-| • [JQuery][jquery-gallery]  | 4 | Advanced
-| • [GSAP greensock][fizzbuzz]  | 4 | Advanced
-| • Data visualization - [D3][d3] charting      | 1 | Novice
-| **CSS3**                 | 1 | Advanced
-| CSS Preprocessors                 | 1 | Intermediate
-| **Ad Technology**  | 5 | Advanced
-| • VPAID, VAST, IMA SDK for HTML5 | 5 | Advanced
-| • DoubleClick For Publishers         | 2 | Intermediate, Campaign Manager  
-| • Apache Flex® SDK , IntelliJ IDEA  | 1 | Intermediate
-| WordPress - [Genesis framework][genesis]     | 2 | Intermediate
-| Node       | 1 | Novice |
-| SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      | 1 | Intermediate
+| • React |  Intermediate
+| • [React Hooks][hooks-example] |  Intermediate
+| • Gatsby, [Next.js][next-js]  |  Novice |
+| • Redux  |  Novice |
+| • [React Spring][spring] - physics based animation  |  Novice |
+| • static type checking: [Flow][flow], [Typescript][typescript] |  Intermediate
+| • Unit, integration testing -  jest, React-testing library       |  Intermediate |
+| • [Typescript][typescript] |  novice
+| • Apollo Client  |  Novice |
+| • GraphQL Yoga - Prisma |  Novice |
+| • [Vue.JS][vue-wattage], Riot, AngularJS |  Intermediate
+| • [JQuery][jquery-gallery]  | Advanced
+| • [GSAP greensock][fizzbuzz]  | Advanced
+| • Data visualization - [D3][d3] charting      |  Novice
+| **CSS3**                 |  Advanced
+| CSS Preprocessors                 |  Intermediate
+| **Ad Technology**  |  Advanced
+| • VPAID, VAST, IMA SDK for HTML5 |  Advanced
+| • DoubleClick For Publishers         | Intermediate, Campaign Manager  
+| • Apache Flex® SDK , IntelliJ IDEA  |  Intermediate
+| WordPress - [Genesis framework][genesis]     | Intermediate
+| Node       |  Novice |
+| SVG (optimization, automation, accessibility, [Grunticon][svg-bm])      |  Intermediate
 | **Terminal**|
-| • Version Control (Git)                    |  8 | Advanced
-| • Package management: Homebrew, NPM| 3 | Advanced
-| Amazon AWS | 1 | Novice |
-| Serverless | 1 | Novice |
-| Project Management (Slack - Trello - Jira)    |  2 | Intermediate
-| Action-script 3, 2  | 10 | Advanced
-| **Media Production - Adobe CC Suite**| 20 | Intermediate
+| • Version Control (Git)                    | Advanced
+| • Package management: Homebrew, NPM|  Advanced
+| Amazon AWS |  Novice |
+| Serverless |  Novice |
+| Project Management (Slack - Trello - Jira)    |  Intermediate
+| Action-script 3, 2  | Advanced
+| **Media Production - Adobe CC Suite**| Intermediate
 
 ### Professional Summary
 
@@ -75,7 +77,7 @@ entertainment industries; five years of experience in digital video advertising.
 - Built UI components using Angular Material, UI, Bootstrap for UI
 - Cleaned up fragile redundant code
 
-#### Developer @ Reel Feed TV `Australia (remote), Oct 2015- March 2016`
+#### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
 
 Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with client's Amazon AWS account.
 
@@ -98,7 +100,7 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 - tracks user interactions and ad events
 - measures a campaign's effectiveness.
 
-#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005- Dec 2017`
+#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
 
 Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. WordPress sites
 
@@ -178,4 +180,5 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [hooks]: https://reactjs.org/docs/hooks-intro.html
 [spring]: https://www.react-spring.io
 
-[hooks-example]:https://hooks-wine-store.mconnor.now.sh/
+[hooks-example]: https://hooks-wine-store.mconnor.now.sh/
+[mailto]: mailto:mike@clodswing.info
