@@ -14,25 +14,23 @@
 |  - ES6+ javascript  | Advanced
 |  - HTML5: canvas, audio, video    |  Advanced|
 | **Frameworks/libraries** |
-| • React |  Intermediate
+| • React |  Advanced
 | • [React Hooks][hooks-example] |  Intermediate
 | • Gatsby, [Next.js][next-js]  |  Novice |
 | • Redux  |  Novice |
 | • [React Spring][spring] - physics based animation  |  Novice |
 | • static type checking: [Flow][flow], [Typescript][typescript] |  Intermediate
 | • Unit, integration testing -  jest, React-testing library       |  Intermediate |
-| • [Typescript][typescript] |  novice
 | • Apollo Client  |  Novice |
-| • GraphQL Yoga - Prisma |  Novice |
+| • GraphQL Yoga - Prisma |  Intermediate |
 | • [Vue.JS][vue-wattage], Riot, AngularJS |  Intermediate
 | • [JQuery][jquery-gallery]  | Advanced
 | • [GSAP greensock][fizzbuzz]  | Advanced
 | • Data visualization - [D3][d3] charting      |  Novice
 | **CSS3**                 |  Advanced
-| CSS Preprocessors                 |  Intermediate
 | **Ad Technology**  |  Advanced
 | • VPAID, VAST, IMA SDK for HTML5 |  Advanced
-| • DoubleClick For Publishers         | Intermediate, Campaign Manager  
+| • DoubleClick For Publishers/Campaign Manager          | Intermediate
 | • Apache Flex® SDK , IntelliJ IDEA  |  Intermediate
 | WordPress - [Genesis framework][genesis]     | Intermediate
 | Node       |  Novice |
@@ -41,7 +39,7 @@
 | • Version Control (Git)                    | Advanced
 | • Package management: Homebrew, NPM|  Advanced
 | Amazon AWS |  Novice |
-| Serverless |  Novice |
+| Serverless deployment |  Novice |
 | Project Management (Slack - Trello - Jira)    |  Intermediate
 | Action-script 3, 2  | Advanced
 | **Media Production - Adobe CC Suite**| Intermediate
@@ -88,7 +86,7 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 - Implemented ads into Yahoo's backend AdInterax system
 - Debugged rich media ads built by third ad houses.
 - Worked on a small team that contributed $40 million in annual revenue to the company.
-- Support for Adinterax clients
+- Support for AdInterax clients
 - Drafted new standards for internal tracking of ad progression and interaction in Adinterax.
 - Took over  account management responsibilities after supervisor departed the company.
 - Support for external publishers
@@ -101,6 +99,12 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 - measures a campaign's effectiveness.
 
 #### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
+
+#### Rich Media producer @ Oddcast `Jan 2000 - Jan 2001`
+
+#### Rich Media producer @ Oven Digital `Jan 1998 - Jan 2000`
+
+#### Rich Media producer @ The Hub (AOL) `Jan 1997 - Jan 1998`
 
 Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. WordPress sites
 
