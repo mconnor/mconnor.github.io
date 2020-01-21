@@ -16,20 +16,19 @@
 | **Frameworks/libraries** |
 | • React |  Advanced
 | • [React Hooks][hooks-example] |  Intermediate
-| • Gatsby, [Next.js][next-js]  |  Novice |
-| • Redux  |  Novice |
+| • Gatsby, [Next.js][next-js]  |  Intermediate |
+| • GraphQL  |  Intermediate |
+| • Redux  |  Intermediate |
 | • [React Spring][spring] - physics based animation  |  Novice |
 | • static type checking: [Flow][flow], [Typescript][typescript] |  Intermediate
-| • Unit, integration testing -  jest, React-testing library       |  Intermediate |
-| • Apollo Client  |  Novice |
-| • GraphQL Yoga - Prisma |  Intermediate |
+| • Unit, integration testing -  Jest, React-testing library       |  Intermediate |
 | • [Vue.JS][vue-wattage], Riot, AngularJS |  Intermediate
 | • [JQuery][jquery-gallery]  | Advanced
 | • [GSAP greensock][fizzbuzz]  | Advanced
 | • Data visualization - [D3][d3] charting      |  Novice
 | **CSS3**                 |  Advanced
 | **Ad Technology**  |  Advanced
-| • VPAID, VAST, IMA SDK for HTML5 |  Advanced
+| • [VPAID][vpaid], VAST, IMA SDK for HTML5 |  Advanced
 | • DoubleClick For Publishers/Campaign Manager          | Intermediate
 | • Apache Flex® SDK , IntelliJ IDEA  |  Intermediate
 | WordPress - [Genesis framework][genesis]     | Intermediate
@@ -58,15 +57,17 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
 
-- Took ownership of legacy code base to enable [AdChoices][adchoices] product for clients serving VAST 3 advertising via the IMA Client-side SDK.
-- Corresponded with  [Google IMA SDK Developers][imaforum] to fix bugs with their technology which was not meeting promised capabilities - resulting in fixes that impacted the whole industry.
-- Developed a [VPAID][vpaid] solution for client’s serving legacy VAST 2 advertising
-- Implemented new designs of product overlay
-- Worked with clients directly to help them integrate the company’s product
+- Took over broken legacy code for the company's video advertising transparency product - [Ad Notice/AdChoices][adchoices].
+- Got the product working and back into production.
+- Added new functionality.
+- Implemented new responsive designs in desktop and mobile.
+- Corresponded with [Google Developers][imaforum] to fix bugs with their [IMA SDK][imasdk] which was not meeting promised capabilities - resulting in fixes that impacted the ad industry as a whole.
+- Developed a [VPAID][vpaid] alternative for client’s serving legacy [VAST 2][vast2] advertising feeds.
+- Worked with clients directly to integrate the product into campaigns.
 - Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
-- Worked with testing team to get new code from development to production
-- Branched and merged code branches with [GitHub][github]
-- Developed HMTL5 video players desktop and mobile for testing
+- Branched, pushed, and merged code into with git.
+- Worked one one one with the testing guru.
+- Developed ad testing tools -  HMTL5 video players - desktop and mobile.
 
 #### Developer @ Typhon Group, `New Orleans, LA, 2016`
 
@@ -77,17 +78,19 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
 
-Action-script and Javascript development on [VPAID][vpaid] digital video advertising products. Worked with Agile team - communicating with [Slack][slacksite]. Some work with client's Amazon AWS account.
+- Action-script and Javascript development on [VPAID][vpaid] digital video advertising products.
+- Worked with remote Agile team.
+- Some work with client's Amazon AWS account.
 
 #### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
-- Built Flash Rich media ad executions for Yahoo properties.
-- Responsible for building Rich Media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Push-down, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
+- Built rich media ad executions for Yahoo properties.
+- Responsible for building rich media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Push-down, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
 - Implemented ads into Yahoo's backend AdInterax system
-- Debugged rich media ads built by third ad houses.
+- Debugged rich media ads built by outside ad houses.
 - Worked on a small team that contributed $40 million in annual revenue to the company.
 - Support for AdInterax clients
-- Drafted new standards for internal tracking of ad progression and interaction in Adinterax.
+- Drafted new standards for internal tracking of ad interaction in Adinterax.
 - Took over  account management responsibilities after supervisor departed the company.
 - Support for external publishers
 
@@ -96,9 +99,12 @@ Action-script and Javascript development on [VPAID][vpaid] digital video adverti
 Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that:
 
 - tracks user interactions and ad events
-- measures a campaign's effectiveness.
+- measures campaign effectiveness.
+- displays a variety of evolving video ad formats.
 
 #### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
+
+- Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app] for the auto, phama, fashion industry.
 
 #### Rich Media producer @ Oddcast `Jan 2000 - Jan 2001`
 
@@ -106,7 +112,7 @@ Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad 
 
 #### Rich Media producer @ The Hub (AOL) `Jan 1997 - Jan 1998`
 
-Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app]. WordPress sites
+
 
 #### Rich Media Producer (freelance & full-time) `NYC, 1996-2005`
 
@@ -116,6 +122,13 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 
 - Javascript: [Github][github-link] | [Code Pen][codepen]
 - Flash: [Archive][FlashArchive1]
+
+### Outside Interest
+
+- Professional white Water Rafting Guide - 2015
+- Kayaking
+- Large scale collaberative art projects
+- volunteer web development for [refugee shelter][ah]
 
 [bit]: https://bitsrc.io/s
 [FlashArchive1]: https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
@@ -170,7 +183,7 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 [brew]: https://brew.sh/
 [d3]: https://d3js.org/
 [codepen]: https://codepen.io/cloudswing
-[adchoices]: https://youradchoices.com/
+[adchoices]: https://crownpeak.com/products/consent-solutions/ad-notice
 [svg-bm]: http://rocketnumber9.org/codesamples/grunticon/ "svg animation"
 [jquery-gallery]: http://rocketnumber9.org/sample/responsivePhotoGallery/ "responsive photo gallery"
 [canvas-balls]: http://rocketnumber9.org/test/animation01/box2dCanvas/game.html "bouncing balls"
@@ -186,3 +199,5 @@ Macromedia Director projects, DVD, websites, video editing/compression.
 
 [hooks-example]: https://hooks-wine-store.mconnor.now.sh/
 [mailto]: mailto:mike@clodswing.info
+[vast2]: https://www.iab.com/guidelines/digital-video-ad-serving-template-vast-2-0/
+[ah]: https://annunciationhouse.org

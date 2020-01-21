@@ -2,9 +2,9 @@
 
 I am a Front-end developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries.
 
-I am currently deep diving with React, React Hooks, Gatsby. Also unit/integration testing, and static type checking (typescript and Flow), physics based animation (React Spring).
+I am currently deep diving with React, React Hooks, Gatsby, unit/integration testing, and static type checking (typescript and Flow), physics based animation (React Spring).
 
-I  am moving towards a functional style of coding - and moving towards full-stack development (Apollo Client, graphQL, Prisma).
+I  am moving towards a functional style of coding - and moving towards full-stack development (Apollo Client, GraphQL, Prisma).
 
 I have several years experience in digital advertising - developing [VAST][vast]/[VPAID][vpaid] applications and working with industry tools such as DoubleClick.
 
