@@ -1,12 +1,10 @@
-# Michael Connor
+# Mike Connor -  Front-end Developer
 
-## Front-end Development, UI Design
+New Orleans, LA
 
-**New Orleans, LA** (tel: 503-956-8939)
+[mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link] 
 
-[mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link] | [CodePen][codepen]
-
-### Skills
+#### Skills
 
 | Technology                  | &nbsp; Skill &nbsp; Level
 | ------------- | -----:|
@@ -19,13 +17,12 @@
 | • Gatsby, [Next.js][next-js]  |  Intermediate |
 | • GraphQL  |  Intermediate |
 | • Redux  |  Intermediate |
-| • [React Spring][spring] - physics based animation  |  Novice |
+| • [React Spring][spring] - physics based animation  |  Intermediate |
 | • static type checking: [Flow][flow], [Typescript][typescript] |  Intermediate
 | • Unit, integration testing -  Jest, React-testing library       |  Intermediate |
 | • [Vue.JS][vue-wattage], Riot, AngularJS |  Intermediate
 | • [JQuery][jquery-gallery]  | Advanced
 | • [GSAP greensock][fizzbuzz]  | Advanced
-| • Data visualization - [D3][d3] charting      |  Novice
 | **CSS3**                 |  Advanced
 | **Ad Technology**  |  Advanced
 | • [VPAID][vpaid], VAST, IMA SDK for HTML5 |  Advanced
@@ -37,98 +34,58 @@
 | **Terminal**|
 | • Version Control (Git)                    | Advanced
 | • Package management: Homebrew, NPM|  Advanced
-| Amazon AWS |  Novice |
-| Serverless deployment |  Novice |
-| Project Management (Slack - Trello - Jira)    |  Intermediate
 | Action-script 3, 2  | Advanced
 | **Media Production - Adobe CC Suite**| Intermediate
 
-### Professional Summary
+#### Professional Summary
 
 Twenty years experience developing applications for the auto, pharmaceutical,
 entertainment industries; five years of experience in digital video advertising.
 
-### Education
+#### Education
 
 - `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies
-- University of KS - BS Business
 
-### Experience
+#### Experience
 
-#### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
+##### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
 
-- Took over broken legacy code for the company's video advertising transparency product - [Ad Notice/AdChoices][adchoices].
-- Got the product working and back into production.
-- Added new functionality.
-- Implemented new responsive designs in desktop and mobile.
-- Corresponded with [Google Developers][imaforum] to fix bugs with their [IMA SDK][imasdk] which was not meeting promised capabilities - resulting in fixes that impacted the ad industry as a whole.
-- Developed a [VPAID][vpaid] alternative for client’s serving legacy [VAST 2][vast2] advertising feeds.
-- Worked with clients directly to integrate the product into campaigns.
+- Lead dev on - [Ad Notice/AdChoices][adchoices].
+- Developed a [VPAID][vpaid] alternative for legacy [VAST 2][vast2] advertising feeds.
 - Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
-- Branched, pushed, and merged code into with git.
-- Worked one one one with the testing guru.
-- Developed ad testing tools -  HMTL5 video players - desktop and mobile.
 
-#### Developer @ Typhon Group, `New Orleans, LA, 2016`
+##### Developer @ Typhon Group, `New Orleans, LA, 2016`
 
 - Worked on AngularJS code base for medical education web app
 - Worked towards 100% [AA accessibility][aria]
-- Built UI components using Angular Material, UI, Bootstrap for UI
-- Cleaned up fragile redundant code
 
-#### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
+##### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
 
 - Action-script and Javascript development on [VPAID][vpaid] digital video advertising products.
-- Worked with remote Agile team.
-- Some work with client's Amazon AWS account.
 
-#### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
+##### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
 - Built rich media ad executions for Yahoo properties.
-- Responsible for building rich media products and supporting post-sale efforts to ensure flawless execution. Products included: Wallpapers, Mail Pullover, OPA Push-down, OMG Mosaic, Page Morph, Full Page Overlay, IAB Rising Stars, Mail Send/Confirm.
-- Implemented ads into Yahoo's backend AdInterax system
-- Debugged rich media ads built by outside ad houses.
-- Worked on a small team that contributed $40 million in annual revenue to the company.
-- Support for AdInterax clients
+- Responsible for building rich media products and supporting post-sale efforts to ensure flawless execution.
+- Worked on a small team that contributed $40 million in annual revenue.
 - Drafted new standards for internal tracking of ad interaction in Adinterax.
-- Took over  account management responsibilities after supervisor departed the company.
-- Support for external publishers
 
-#### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
+##### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
 
-Built 1st and 2nd generation of the company's VPAID and VAST compliant video ad display product that:
+Lead developer on VPAID and VAST compliant video ad display product.
 
-- tracks user interactions and ad events
-- measures campaign effectiveness.
-- displays a variety of evolving video ad formats.
+##### Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
 
-#### Developer/Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
+- Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app] for the auto, pharma, fashion industry.
 
-- Web and desktop apps, kiosks, [games][elauder], [sales tools][hyndai], [interactive video players][pharma-app] for the auto, phama, fashion industry.
+##### Rich Media producer 
 
-#### Rich Media producer @ Oddcast `Jan 2000 - Jan 2001`
+- Oddcast `Jan 2000 - Jan 2001`
+- Oven Digital `Jan 1998 - Jan 2000`
+- The Hub (AOL) `Jan 1997 - Jan 1998`
 
-#### Rich Media producer @ Oven Digital `Jan 1998 - Jan 2000`
+##### National Public Raddio (producer/engineer) `DC, 1992-1995`
 
-#### Rich Media producer @ The Hub (AOL) `Jan 1997 - Jan 1998`
-
-
-
-#### Rich Media Producer (freelance & full-time) `NYC, 1996-2005`
-
-Macromedia Director projects, DVD, websites, video editing/compression.
-
-### Projects, Code Samples
-
-- Javascript: [Github][github-link] | [Code Pen][codepen]
-- Flash: [Archive][FlashArchive1]
-
-### Outside Interest
-
-- Professional white Water Rafting Guide - 2015
-- Kayaking
-- Large scale collaberative art projects
-- volunteer web development for [refugee shelter][ah]
 
 [bit]: https://bitsrc.io/s
 [FlashArchive1]: https://www.flickr.com/photos/rocketnumber9/albums/72157617091593886
