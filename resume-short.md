@@ -1,21 +1,20 @@
 # Mike Connor -  Front-end Developer
 
-
 ## New Orleans, LA | [mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link]
 
-#### Skills
+### Skills
 
 | Technology                  | &nbsp; Skill &nbsp; Level |
 | --------------------------- | --------------------------:|
 | Javascript, CSS, HTML5                   |  Advanced|
 | React                           |  Advanced
-| React Hooks [ * ][hooks-demo]    |  Intermediate |
+| React Hooks [ * ][hooks-demo]    |  Advanced |
 | Gatsby, Next.js     |  Intermediate |
 | GraphQL                         |  Intermediate |
 | React-Redux  [ * ][redux-demo]                         |  Intermediate |
 | [React Spring][spring] - physics based animation  |  Intermediate |
 | static type checking: Flow, Typescript        |  Intermediate
-| Budlers and buildtools - Webpack, Parcel |  Intermediate
+| Bundlers and build-tools - Webpack, Parcel |  Intermediate
 | Unit, integration testing -  Jest, React-testing library       |  Intermediate |
 | Vue [ * ][vue-wattage-demo], Riot, AngularJS, Svelte  :    |  Intermediate
 | JQuery [ * ][jquery-gallery-demo]                    | Advanced
@@ -28,17 +27,14 @@
 | WordPress - [Genesis framework][genesis]     | Intermediate
 | Node                                          |  Novice |
 | SVG (optimization, accessibility, animation[ * ][svg-bm-demo] |  Intermediate
-| **Terminal**|
-| • Version Control (Git)                       | Advanced
-| • Package management: Homebrew, NPM           |  Advanced
-| **Flash**
-| • Action-script 3, 2 , Apache Flex® SDK         | Advanced
-| • Apache Flex® SDK                               | Advanced
-| **Media Production - Adobe CC Suite**         | Intermediate
+| Version Control (Git)                       | Advanced
+| Package management: Homebrew, NPM           |  Advanced
+| Flash - Action-script 3, 2 | Advanced
+| Media Production - Adobe CC Suite         | Intermediate
 
 #### Professional Summary
 
-> Twenty years experience developing applications for the auto, pharmaceutical,
+Twenty years experience developing applications for the auto, pharmaceutical,
 entertainment industries; five years of experience in digital video advertising.
 
 #### Education
@@ -75,15 +71,14 @@ entertainment industries; five years of experience in digital video advertising.
 
 ##### Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
 
-- Web and desktop apps, kiosks, [games][elauder-demo], [sales tools][hyundai-demo], [interactive video players][pharma-demo] for the auto, pharma, fashion industry.
+- Desktop apps, kiosks, [games][elauder-demo], [sales tools][hyundai-demo], [interactive video players][pharma-demo] for the auto, pharma, fashion industry.
 
 ##### Rich Media producer
 
-- Oddcast `Jan 2000 - Jan 2001`, 
+- Oddcast `Jan 2000 - Jan 2001`,
 - Oven Digital `Jan 1998 - Jan 2000`,
 - The Hub (AOL) `Jan 1997 - Jan 1998`
-
-##### National Public Raddio (producer/engineer) `DC, 1992-1995`
+- National Public Radio (producer/engineer) `1992-1995`
 
 
 [project-archive]: http://portfolio.rocketnumber9.org/
