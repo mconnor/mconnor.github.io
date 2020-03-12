@@ -39,7 +39,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Education
 
-- `1995-1997` Interactive Telecommunications Program - NYU. Masters of Professional Studies
+- `1995-1997` Interactive Telecommunications Program, NYU. Masters of Professional Studies
 
 #### Experience
 
