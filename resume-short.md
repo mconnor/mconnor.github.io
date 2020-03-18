@@ -1,4 +1,4 @@
-# Mike Connor -  Front-end Developer
+# Mike Connor - Front-end/React Developer
 
 ## New Orleans, LA | [mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link]
 
@@ -7,30 +7,27 @@
 | Technology                  | &nbsp; Skill &nbsp; Level |
 | --------------------------- | --------------------------:|
 | Javascript, CSS, HTML5                   |  Advanced|
-| React                           |  Advanced
-| React Hooks [ * ][hooks-demo]    |  Advanced |
-| Gatsby, Next.js     |  Intermediate |
-| GraphQL                         |  Intermediate |
-| React-Redux  [ * ][redux-demo]                         |  Intermediate |
-| [React Spring][spring] - physics based animation  |  Intermediate |
-| static type checking: Flow, Typescript        |  Intermediate
+| React, React Hooks                       |  Advanced
+| React-Redux                               |  Intermediate |
+| Typescript (and Flow)                     |  Intermediate
+| Gatsby, Next.js                             Intermediate |
+| GraphQL                                      |  Intermediate |
+| [Framer Motion][motion] - React animation library|  Intermediate |
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
-| Unit, integration testing -  Jest, React-testing library       |  Intermediate |
-| Vue [ * ][vue-wattage-demo], Riot, AngularJS, Svelte  :    |  Intermediate
-| JQuery [ * ][jquery-gallery-demo]                    | Advanced
-| GSAP greensock [ * ][fizzbuzz-demo]                  | Advanced
-| CSS3                                     |  Advanced
-| Deployment: now, heroku  |  Intermediate
+| Unit, integration testing -  Jest, React-testing library       |  Intermediate
+| Vue, Riot, AngularJS, Svelte  :    |  Intermediate
+| CSS3, styled components, CSS modules        |  Advanced
+| Serverless Deployment: zeit now  |  Intermediate
 | **Ad Technology**  |  Advanced
 | • [VPAID][vpaid], VAST, IMA SDK for HTML5     |  Advanced
 | • DoubleClick For Publishers/Campaign Manager          | Intermediate
 | WordPress - [Genesis framework][genesis]     | Intermediate
-| Node                                          |  Novice |
-| SVG (optimization, accessibility, animation[ * ][svg-bm-demo] |  Intermediate
+| Node, Express server                         |  Intermediate |
+| SVG (optimization, accessibility, animation |  Intermediate
 | Version Control (Git)                       | Advanced
 | Package management: Homebrew, NPM           |  Advanced
-| Flash - Action-script 3, 2 | Advanced
-| Media Production - Adobe CC Suite         | Intermediate
+| Flash - Action-script 3, 2                  | Advanced
+| Media Production - Adobe CC Suite            | Intermediate
 
 #### Professional Summary
 
@@ -79,7 +76,6 @@ entertainment industries; five years of experience in digital video advertising.
 - Oven Digital `Jan 1998 - Jan 2000`,
 - The Hub (AOL) `Jan 1997 - Jan 1998`
 - National Public Radio (producer/engineer) `1992-1995`
-
 
 [project-archive]: http://portfolio.rocketnumber9.org/
 [dfp]: https://www.google.com/intl/en/doubleclick/publishers/welcome/
@@ -152,3 +148,4 @@ entertainment industries; five years of experience in digital video advertising.
 <!-- [ah]: https://annunciationhouse.org -->
 [hooks-demo]: https://hooks-wine-store.mconnor.now.sh/
 [redux-demo]: https://github.com/mconnor/redux-test
+[motion]: https://www.framer.com/motion/
