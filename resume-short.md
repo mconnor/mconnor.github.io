@@ -4,13 +4,13 @@
 
 ### Skills
 
-| Technology                  | &nbsp; Skill &nbsp; Level |
+| Technology                  | Skill Level |
 | --------------------------- | --------------------------:|
 | Javascript, CSS, HTML5                   |  Advanced|
 | React, React Hooks                       |  Advanced
 | React-Redux                               |  Intermediate |
 | Typescript (and Flow)                     |  Intermediate
-| Gatsby, Next.js                             Intermediate |
+| Gatsby, Next.js                           |  Intermediate |
 | GraphQL                                      |  Intermediate |
 | [Framer Motion][motion] - React animation library|  Intermediate |
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
