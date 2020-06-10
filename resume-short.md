@@ -40,6 +40,22 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Experience
 
+#### Sales App - client [Lupin][lupin] Pharmaceuticals
+
+Partnered with Specter Hall to build a web app, packed with SVG animations, video, and interactivity to run through Lupin's ios application - IQVIA Sales View.
+
+Tech stack:
+- Next.js
+- React
+- type-script
+- Framer-motion animation
+
+
+##### Developer - pro-bono Covid-19 project `March 2019`
+- Recruited via the Helping Engineers/#ProjectOpenAir group  formed in response to Covid-19
+- Working on app that helps people dealing with isolation
+- Collaberating, coding, merging React.js code with other volunteer coders
+
 ##### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
 
 - Brought in as lead dev for [Ad Notice/AdChoices][adchoices] product.
@@ -149,3 +165,5 @@ entertainment industries; five years of experience in digital video advertising.
 [hooks-demo]: https://hooks-wine-store.mconnor.now.sh/
 [redux-demo]: https://github.com/mconnor/redux-test
 [motion]: https://www.framer.com/motion/
+[iqva]: https://apps.apple.com/us/app/iqvia-sales-view/id1177923185
+[lupin]: https://www.lupin.com/
