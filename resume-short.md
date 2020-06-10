@@ -8,9 +8,9 @@
 | --------------------------- | --------------------------:|
 | Javascript, CSS, HTML5                   |  Advanced|
 | React, React Hooks                       |  Advanced
-| React-Redux                               |  Intermediate |
+| Next.js                                    |  Intermediate |
 | Typescript (and Flow)                     |  Intermediate
-| Gatsby, Next.js                           |  Intermediate |
+| React-Redux                               |  Intermediate |
 | GraphQL                                      |  Intermediate |
 | [Framer Motion][motion] - React animation library|  Intermediate |
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
@@ -48,14 +48,16 @@ Tech stack:
 
 - Next.js
 - React
+- custom hooks
+- simple React.context based global state management
 - type-script
 - Framer-motion animation
 
-
 ##### Developer - pro-bono Covid-19 project `March 2019`
-- Recruited via the Helping Engineers/#ProjectOpenAir group  formed in response to Covid-19
+
+- Recruited via the Helping Engineers/#ProjectOpenAir group formed in response to Covid-19
 - Working on app that helps people dealing with isolation
-- Collaberating, coding, merging React.js code with other volunteer coders
+- Coding, merging React.js code with other developers
 
 ##### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
 
