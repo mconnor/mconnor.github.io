@@ -40,7 +40,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Experience
 
-#### Sales App - client [Lupin][lupin] Pharmaceuticals May-ongoing, 2020
+#### Sales App - client [Lupin][lupin] Pharmaceuticals `May-ongoing, 2020`
 
 Partnered with Specter Hall to build a web app, packed with SVG animations, video, and interactivity to run through Lupin's ios application - IQVIA Sales View.
 
