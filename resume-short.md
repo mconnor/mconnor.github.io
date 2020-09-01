@@ -1,4 +1,4 @@
-# Mike Connor - Front-end/React Developer
+# Mike Connor - React Typescript Front End Engineer
 
 ## New Orleans, LA | [mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link]
 
@@ -12,10 +12,12 @@
 | Typescript (and Flow)                     |  Intermediate
 | React-Redux                               |  Intermediate |
 | GraphQL                                      |  Intermediate |
+| React Native                                      |  Intermediate |
 | [Framer Motion][motion] - React animation library|  Intermediate |
+| UI design - Figma | Intermediate
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
 | Unit, integration testing -  Jest, React-testing library       |  Intermediate
-| Vue, Riot, AngularJS, Svelte  :    |  Intermediate
+| Vue, Riot, AngularJS, Svelte    |  Intermediate
 | CSS3, styled components, CSS modules        |  Advanced
 | Serverless Deployment: zeit now  |  Intermediate
 | **Ad Technology**  |  Advanced
@@ -40,18 +42,9 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Experience
 
-#### Sales App - client [Lupin][lupin] Pharmaceuticals `May-ongoing, 2020`
+##### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
 
-Partnered with Specter Hall to build a web app, packed with SVG animations, video, and interactivity to run through Lupin's ios application - IQVIA Sales View.
-
-Tech stack:
-
-- Next.js
-- React
-- custom hooks
-- simple React.context based global state management
-- type-script
-- Framer-motion animation
+Built [Ipad web sales app][solosecApp], packed with SVG animations, video, and interactivity.
 
 ##### Developer - pro-bono Covid-19 project `March 2019`
 
@@ -170,3 +163,4 @@ Tech stack:
 [motion]: https://www.framer.com/motion/
 [iqva]: https://apps.apple.com/us/app/iqvia-sales-view/id1177923185
 [lupin]: https://www.lupin.com/
+[solosecApp]: https://solosec-nextjs-4e0m8yoa6.vercel.app/iframe
