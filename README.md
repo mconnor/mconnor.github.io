@@ -1,4 +1,8 @@
-# Michael Connor
+# I am Michael Connor -
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 I am a Front-end developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries.
 
