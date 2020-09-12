@@ -1,4 +1,4 @@
-# Mike Connor - React Typescript Front End Engineer
+# Mike Connor - React Typescript Developer
 
 ## New Orleans, LA | [mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link]
 
@@ -7,19 +7,20 @@
 | Technology                  | Skill Level |
 | --------------------------- | --------------------------:|
 | Javascript, CSS, HTML5                   |  Advanced|
-| React, React Hooks                       |  Advanced
+| React, Hooks                       |  Advanced
 | Next.js                                    |  Intermediate |
+| State Management: Context API              |  Intermediate |
 | Typescript (and Flow)                     |  Intermediate
-| React-Redux                               |  Intermediate |
 | GraphQL                                      |  Intermediate |
-| React Native                                      |  Intermediate |
+| Headless CMS - Sanity                        |  Novice |
+| React Native                                     |  Intermediate |
 | [Framer Motion][motion] - React animation library|  Intermediate |
 | UI design - Figma | Intermediate
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
 | Unit, integration testing -  Jest, React-testing library       |  Intermediate
-| Vue, Riot, AngularJS, Svelte    |  Intermediate
+| Vue, Riot, Svelte    |  Intermediate
 | CSS3, styled components, CSS modules        |  Advanced
-| Serverless Deployment: zeit now  |  Intermediate
+| Serverless Deployment: Vercel  |  Intermediate
 | **Ad Technology**  |  Advanced
 | • [VPAID][vpaid], VAST, IMA SDK for HTML5     |  Advanced
 | • DoubleClick For Publishers/Campaign Manager          | Intermediate
@@ -42,7 +43,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### Experience
 
-##### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
+#### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
 
 Built [Ipad web sales app][solosecApp], packed with SVG animations, video, and interactivity.
 
