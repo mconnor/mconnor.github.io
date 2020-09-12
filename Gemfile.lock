@@ -174,7 +174,7 @@ GEM
     minitest (5.13.0)
     multipart-post (2.1.1)
     net-dns (0.9.0)
-    nokogiri (1.10.5)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     octicons (9.1.1)
       nokogiri (>= 1.6.3.1)
