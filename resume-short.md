@@ -45,7 +45,7 @@ entertainment industries; five years of experience in digital video advertising.
 
 #### CannonBall Media - App for canna-friendly entertainment network `Sept - , 2020`
 
-- Building a full stack and mobile application featuring video, ads, store
+- Building a full-stack application featuring video, ads, store
 
 #### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
 
