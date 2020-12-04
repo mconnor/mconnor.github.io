@@ -1,55 +1,60 @@
-# Mike Connor - React Typescript Developer
+# Michael G Connor
 
-## New Orleans, LA | [mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link]
+## React/JS Developer - Full Stack - New Orleans, LA
 
-### Skills
+[mike@cloudswing.info][mailto] |  [linked-in][linkedinURL] | [GitHub][github-link] | tel: 1-503-956-8939
 
-| Technology                  | Skill Level |
+| Technologies                | Skill Level |
 | --------------------------- | --------------------------:|
-| Javascript, CSS, HTML5                   |  Advanced|
+| JavaScript, CSS, HTML5                   |  Advanced|
 | React, Hooks                       |  Advanced
+| React Native                                     |  Advanced |
 | Next.js                                    |  Intermediate |
-| State Management: Context API              |  Intermediate |
+| State Management: Context API, Redux              |  Intermediate |
 | Typescript (and Flow)                     |  Intermediate
 | GraphQL                                      |  Intermediate |
-| Headless CMS - Sanity                        |  Novice |
-| React Native                                     |  Intermediate |
+| Headless CMS (Sanity/CosmicJS  )                      |  Intermediate |
+| Sever-less Computing - AWS Amplify, Cognito             |  Intermediate |
 | [Framer Motion][motion] - React animation library|  Intermediate |
 | UI design - Figma | Intermediate
 | Bundlers and build-tools - Webpack, Parcel |  Intermediate
 | Unit, integration testing -  Jest, React-testing library       |  Intermediate
 | Vue, Riot, Svelte    |  Intermediate
-| CSS3, styled components, CSS modules        |  Advanced
+| CSS3, styled components, SASS      |  Advanced
 | Serverless Deployment: Vercel  |  Intermediate
 | **Ad Technology**  |  Advanced
 | • [VPAID][vpaid], VAST, IMA SDK for HTML5     |  Advanced
 | • DoubleClick For Publishers/Campaign Manager          | Intermediate
 | WordPress - [Genesis framework][genesis]     | Intermediate
-| Node, Express server                         |  Intermediate |
 | SVG (optimization, accessibility, animation |  Intermediate
 | Version Control (Git)                       | Advanced
-| Package management: Homebrew, NPM           |  Advanced
-| Flash - Action-script 3, 2                  | Advanced
-| Media Production - Adobe CC Suite            | Intermediate
 
-#### Professional Summary
+---
 
-Twenty years experience developing applications for the auto, pharmaceutical,
+### Professional Summary
+
+Twenty years experience font end development on apps for the auto, pharmaceutical,
 entertainment industries; five years of experience in digital video advertising.
 
-#### Education
+Current tech stack is React/React-Native - and now adding server-less back-end skills.
+
+---
+
+### Education
 
 - `1995-1997` Interactive Telecommunications Program, NYU. Masters of Professional Studies
 
-#### Experience
+---
 
-#### CannonBall Media - App for canna-friendly entertainment network `Sept - , 2020`
+### Experience
 
-- Building a full-stack application featuring video, ads, store
+#### CannonBall Media - Store app for canna-friendly entertainment network `Sept 2020 - on going`
+
+- Building a full-stack mobile app featuring video, ads, store, social media
 
 #### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
 
-Built [Ipad web sales app][solosecApp], packed with SVG animations, video, and interactivity.
+- Built [Ipad web sales app][solosecApp], packed with SVG animations, video, and interactivity.
 
 ##### Developer - pro-bono Covid-19 project `March 2019`
 
@@ -70,7 +75,7 @@ Built [Ipad web sales app][solosecApp], packed with SVG animations, video, and i
 
 ##### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
 
-- Action-script and Javascript development on [VPAID][vpaid] digital video advertising products.
+- ActionScript and JavaScript development on [VPAID][vpaid] digital video advertising products.
 
 ##### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
 
