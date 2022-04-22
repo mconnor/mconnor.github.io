@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mike Connor
-email: mike@cloudswing.info
+email: mike@mikeconnor.tech
 description: > # this means to ignore newlines until "baseurl:"
   Front-end Developer based in New Orleans
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://mconnor.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: Cloud_Swing
+twitter_username: mikeconnor504
 github_username:  mconnor
 show_downloads: false
 github.is_project_page: false
