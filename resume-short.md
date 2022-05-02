@@ -1,99 +1,94 @@
 # Michael G Connor
 
-## React/JS Developer - Full Stack - New Orleans, LA
+## Frontend Mobile Developer
 
-[mike@cloudswing.info][mailto] | [linked-in][linkedinurl] | [GitHub][github-link] | tel: 1-503-956-8939
-
-| Technologies                                            |  Skill Level |
-| ------------------------------------------------------- | -----------: |
-| JavaScript, CSS, HTML5                                  |     Advanced |
-| React, Hooks                                            |     Advanced |
-| React Native                                            |     Advanced |
-| Next.js                                                 | Intermediate |
-| State Management: Context API, Redux                    | Intermediate |
-| Typescript (and Flow)                                   | Intermediate |
-| GraphQL                                                 | Intermediate |
-| Headless CMS (Sanity/CosmicJS )                         | Intermediate |
-| Sever-less Computing - AWS Amplify, Cognito             | Intermediate |
-| [Framer Motion][motion] - React animation library       | Intermediate |
-| UI design - Figma                                       | Intermediate |
-| Bundlers and build-tools - Webpack, Parcel              | Intermediate |
-| Unit, integration testing - Jest, React-testing library | Intermediate |
-| Vue, Riot, Svelte                                       | Intermediate |
-| CSS3, styled components, SASS                           |     Advanced |
-| Serverless Deployment: Vercel                           | Intermediate |
-| **Ad Technology**                                       |     Advanced |
-| • [VPAID][vpaid], VAST, IMA SDK for HTML5               |     Advanced |
-| • DoubleClick For Publishers/Campaign Manager           | Intermediate |
-| WordPress - [Genesis framework][genesis]                | Intermediate |
-| SVG (optimization, accessibility, animation             | Intermediate |
-| Version Control (Git)                                   |     Advanced |
-
----
+[mike@mikeconnor.tech][mailto] | [linked-in][linkedinurl] | [GitHub][github-link] | 📱: 1-503-956-8939 |  New Orleans, LA
 
 ### Professional Summary
 
-Twenty years experience font end development on apps for the auto, pharmaceutical,
-entertainment industries; five years of experience in digital video advertising.
+- Twenty years experience frontend app development for the auto, pharmaceutical,
+entertainment industries
+- Five years of experience in digital video advertising.
+- Latest endeavors: mobile app development
 
-Current tech stack is React/React-Native - and now adding server-less back-end skills.
+### Current Project: **[Hybrid][hybrid]**
 
----
+`founding partner, May 2020 - ongoing`
+
+- Mobile market app for the cannabis industry (Android/ios)
+  - version controlled monorepo
+  - React Native, Expo, Type-script, NativeBase, Vercel
+  - GraphQL, cache and state managed with - [urql][urql]
+- [Ipad web sales app][solosecapp]
+  - Next.js
+  - static static site
+  - SVG animations, video, and interactivity.
+
+### Relevant Tech Stack
+
+- **React, custom hooks, context api for state***
+
+- **React Native with Expo***
+
+- GraphQL (urql)
+
+- **NativeBase ui component library***
+
+- **Next.js**
+
+- **Mono-repos, linting, github***
+
+- Supabase: Firebase open source alternative for sign up/in, authorization, CMS
+
+- Serverless Deployment: Vercel
+
+- UI design - Figma
+
+- Bundlers and build-tools - Webpack, Parcel
 
 ### Education
 
 - `1995-1997` Interactive Telecommunications Program, NYU. Masters of Professional Studies
 
----
+### More Experience
 
-### Experience
+**Developer - pro-bono Covid-19 project** `March 2019`
 
-#### CannonBall Media - Store app / entertainment network `Sept 2020 - on going`
+- Joined _Helping Engineers/#ProjectOpenAir_ group formed in response to Covid-19
+- Worked on app that helps people dealing with isolation. Coding, merging React.js project with other developers
 
-- Building a full-stack desktp/mobile app featuring video, ads, store, social media.
-- Stack: React-native, Type-script, graphQL, serverless CMS (DatoCMS), AWS-Amplify
+**Developer @ [EVIDON/CrownPeak][cp]** `Sandy, UT (remote) July 2017 - Aug 2019`
 
-#### Pharma Sales App, client - [Lupin][lupin] Pharmaceuticals `May-June, 2020`
-
-- Built [Ipad web sales app][solosecapp], packed with SVG animations, video, and interactivity.
-
-##### Developer - pro-bono Covid-19 project `March 2019`
-
-- Recruited via the Helping Engineers/#ProjectOpenAir group formed in response to Covid-19
-- Working on app that helps people dealing with isolation
-- Coding, merging React.js code with other developers
-
-##### Developer @ EVIDON/CrownPeak `Sandy, UT (remote) July 2017 - Aug 2019`
-
-- Brought in as lead dev for [Ad Notice/AdChoices][adchoices] product.
+- Brought in as lead dev for the companies lucrative [Ad Notice/AdChoices][adchoices] product.
 - Developed a [VPAID][vpaid] alternative for legacy [VAST 2][vast2] advertising feeds, resulting in more publishers using the product.
 - Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
 
-##### Developer @ Typhon Group, `New Orleans, LA, 2016`
+**Developer @ Typhon Group** `New Orleans, LA, 2016`
 
 - Worked on AngularJS code base for medical education web app
 - Worked towards 100% [AA accessibility][aria]
 
-##### Developer @ Reel Feed TV `Australia (remote), Oct 2015 - March 2016`
+**Developer @ Reel Feed TV** `Oct 2015 - March 2016`
 
-- ActionScript and JavaScript development on [VPAID][vpaid] digital video advertising products.
+- Flash ActionScript and JavaScript development on [VPAID][vpaid] digital video advertising products.
 
-##### Ad Technologist @ Yahoo `NYC/Portland, OR Jan 2012 - May 2013`
+**Ad Technologist @ Yahoo** - `Jan 2012 - May 2013`
 
 - Built rich media ad executions for Yahoo properties.
 - Responsible for building rich media products and supporting post-sale efforts to ensure flawless execution.
 - Worked on a small team that contributed $40 million in annual revenue.
 - Drafted new standards for internal tracking of ads, resulting in more accurate stats.
 
-##### Senior Flash Developer @ [Vindico Group][vindico] `NYC, Nov 2009 - Nov 2010`
+**Senior Flash Developer @ [Vindico Group][vindico]** `Nov 2009 - Nov 2010`
 
 - Lead developer on VPAID and VAST compliant video ad display product.
+- Ad display system with dozens of simple apps built to display as per VPAID/VAST, and respond with and to VPAID events and user interaction information
 
-##### Independent Contractor @ Cloud Swing, Inc `Jan 2005 - Dec 2017`
+**Independent Contractor @ Cloud Swing, Inc** `Jan 2001 - Dec 2017`
 
 - Desktop apps, kiosks, [games][elauder-demo], [sales tools][hyundai-demo], [interactive video players][pharma-demo] for the auto, pharma, fashion industry.
 
-##### Rich Media producer
+**Rich Media producer**  `1995-2001`
 
 - Oddcast `Jan 2000 - Jan 2001`,
 - Oven Digital `Jan 1998 - Jan 2000`,
@@ -167,22 +162,25 @@ Current tech stack is React/React-Native - and now adding server-less back-end s
 
 <!-- [fizzbuzz-demo]: http://rocketnumber9.org/test/jschallenges/fizzBuzz/fizzbuzz.html "greensock animation" -->
 
-[fizzbuzz-demo]: http://mconnor.github.io/FizzBuzzDeluxe/
 [imasdk]: https://developers.google.com/interactive-media-ads/docs/sdks/html5/ "Google IMA SDK for HTML5 V3"
 [imaforum]: https://groups.google.com/forum/#!forum/ima-sdk "Google Interactive Media Ads SDK Technical Forum"
-[next-js]: https://nextjs.org/ "Next JS"
-[flow]: https://flow.org/en/
-[typescript]: https://www.typescriptlang.org
+
 [hooks]: https://reactjs.org/docs/hooks-intro.html
 [spring]: https://www.react-spring.io
-[mailto]: mailto:mike.connor2020@protonmail.com?cc=mike@cloudswing.info&subject=Hi!&body=Hello%2C%20Mike.%0D%0A
+[mailto]: mailto:mike@mikeconnor.tech?subject=regarding-your-resume
 [vast2]: https://www.iab.com/guidelines/digital-video-ad-serving-template-vast-2-0/
 
-<!-- [ah]: https://annunciationhouse.org -->
+[solosecapp]: https://solosec-nextjs-4e0m8yoa6.vercel.app/iframe
+
+[nb]: https://nativebase.io
+[hybrid]: https://www.linkedin.com/company/hybrid-app/about/
 
 [hooks-demo]: https://hooks-wine-store.mconnor.now.sh/
 [redux-demo]: https://github.com/mconnor/redux-test
 [motion]: https://www.framer.com/motion/
 [iqva]: https://apps.apple.com/us/app/iqvia-sales-view/id1177923185
 [lupin]: https://www.lupin.com/
-[solosecapp]: https://solosec-nextjs-4e0m8yoa6.vercel.app/iframe
+
+[cp]: https://www.crownpeak.com
+
+[urql]: https://formidable.com/open-source/urql/
