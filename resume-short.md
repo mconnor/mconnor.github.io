@@ -2,98 +2,82 @@
 
 ## Frontend Mobile Developer
 
-[mike@mikeconnor.tech][mailto] | [linked-in][linkedinurl] | [GitHub][github-link] | 📱: 1-503-956-8939 |  New Orleans, LA
+[mike@mikeconnor.tech][mailto] | [linked-in][linkedinurl] | [GitHub][github-link] | 📱: 1-347-369-4537 |  New Orleans, LA, USA
 
 ### Professional Summary
 
-- Twenty years experience frontend app development for the auto, pharmaceutical,
-entertainment industries
+- Twenty years experience frontend app development for the auto, pharmaceutical, entertainment industries
 - Five years of experience in digital video advertising.
 - Latest endeavors: mobile app development
 
-### Current Project: **[Hybrid][hybrid]**
+#### Current Tech Stack
 
-`founding partner, May 2020 - ongoing`
+- React, React Native with Expo
+- Next.js
+- Typescript, eslint
+- NativeBase ui component library
+- GraphQL
+- Supabase: Firebase open source alternative - sign up/in, authorization, CMS
+- Vercel: Serverless Deployment
 
-- Mobile market app for the cannabis industry (Android/ios)
-  - version controlled monorepo
-  - React Native, Expo, Type-script, NativeBase, Vercel
-  - GraphQL, cache and state managed with - [urql][urql]
-- [Ipad web sales app][solosecapp]
-  - Next.js
-  - static static site
-  - SVG animations, video, and interactivity.
+<!-- - UI design - Figma -->
 
-### Relevant Tech Stack
-
-- **React, custom hooks, context api for state***
-
-- **React Native with Expo***
-
-- GraphQL (urql)
-
-- **NativeBase ui component library***
-
-- **Next.js**
-
-- **Mono-repos, linting, github***
-
-- Supabase: Firebase open source alternative for sign up/in, authorization, CMS
-
-- Serverless Deployment: Vercel
-
-- UI design - Figma
-
-- Bundlers and build-tools - Webpack, Parcel
-
-### Education
+#### Education
 
 - `1995-1997` Interactive Telecommunications Program, NYU. Masters of Professional Studies
 
-### More Experience
+#### Experience
 
-**Developer - pro-bono Covid-19 project** `March 2019`
+##### Developer - [Hybrid][hybrid] `May 2020 - ongoing`
 
-- Joined _Helping Engineers/#ProjectOpenAir_ group formed in response to Covid-19
-- Worked on app that helps people dealing with isolation. Coding, merging React.js project with other developers
+- Cannabis' mobile shopping experience (Android/ios), [website][hybridWebsite]
+- [Ipad web sales app][solosecapp] for Lupin Pharmaceutical
+  - Static NextJS web app
 
-**Developer @ [EVIDON/CrownPeak][cp]** `Sandy, UT (remote) July 2017 - Aug 2019`
+##### Frontend Developer - pro-bono Covid-19 project `March 2019`
 
-- Brought in as lead dev for the companies lucrative [Ad Notice/AdChoices][adchoices] product.
+- Joined *Helping Engineers/#æ* group formed in response to Covid-19
+- Worked on app that helps people dealing with isolation.
+
+##### Ad Tech Developer @ [EVIDON/CrownPeak][cp] `Sandy, UT (remote) July 2017 - Aug 2019`
+
+- Brought in as lead dev for the companies lucrative [Ad Notice/AdChoices][adchoices] product. Large vanilla JS code base.
 - Developed a [VPAID][vpaid] alternative for legacy [VAST 2][vast2] advertising feeds, resulting in more publishers using the product.
 - Helped clients work through issues with [DoubleClick for Publishers][dfp] and [DoubleClick Campaign Manager][dcm]
 
-**Developer @ Typhon Group** `New Orleans, LA, 2016`
+##### Frontend Developer @ Typhon Group `August - October 2016`
 
-- Worked on AngularJS code base for medical education web app
-- Worked towards 100% [AA accessibility][aria]
+- Worked on AngularJS code base for medical education web app with a goal of 100% AA accessibility
 
-**Developer @ Reel Feed TV** `Oct 2015 - March 2016`
+##### Ad Tech Developer @ Reel Feed TV `Oct 2015 - March 2016`
 
-- Flash ActionScript and JavaScript development on [VPAID][vpaid] digital video advertising products.
+- Ad Tech Developer on [VPAID][vpaid] digital video advertising products.
 
-**Ad Technologist @ Yahoo** - `Jan 2012 - May 2013`
+##### Ad Tech Developer @ Yahoo - `Jan 2012 - May 2013`
 
 - Built rich media ad executions for Yahoo properties.
-- Responsible for building rich media products and supporting post-sale efforts to ensure flawless execution.
-- Worked on a small team that contributed $40 million in annual revenue.
+- Post-sale support to for flawless executions.
+- Worked with a small team that contributed $40 million in annual revenue.
 - Drafted new standards for internal tracking of ads, resulting in more accurate stats.
 
-**Senior Flash Developer @ [Vindico Group][vindico]** `Nov 2009 - Nov 2010`
+##### Senior Flash Developer @ [Vindico Group][vindico] `Nov 2009 - Nov 2010`
 
 - Lead developer on VPAID and VAST compliant video ad display product.
-- Ad display system with dozens of simple apps built to display as per VPAID/VAST, and respond with and to VPAID events and user interaction information
+- Ad display system with dozens of simple apps built to display as per VPAID/VAST, and respond with and to VPAID events and user interaction information.
 
-**Independent Contractor @ Cloud Swing, Inc** `Jan 2001 - Dec 2017`
+##### Flash Developer - Independent Contractor `Jan 2001 - Dec 2017`
 
 - Desktop apps, kiosks, [games][elauder-demo], [sales tools][hyundai-demo], [interactive video players][pharma-demo] for the auto, pharma, fashion industry.
 
-**Rich Media producer**  `1995-2001`
+##### Rich Media producer  `1995-2001`
+
+Macromedia Director, video editing, DVD production
 
 - Oddcast `Jan 2000 - Jan 2001`,
 - Oven Digital `Jan 1998 - Jan 2000`,
 - The Hub (AOL) `Jan 1997 - Jan 1998`
-- National Public Radio (producer/engineer) `1992-1995`
+
+##### News radio producer/engineer `NPR 1992-1995`
 
 [project-archive]: http://portfolio.rocketnumber9.org/
 [dfp]: https://www.google.com/intl/en/doubleclick/publishers/welcome/
@@ -184,3 +168,7 @@ entertainment industries
 [cp]: https://www.crownpeak.com
 
 [urql]: https://formidable.com/open-source/urql/
+
+[hybridWebsite]: https://gethybrid.co
+
+[supabase]: https://supabase.com

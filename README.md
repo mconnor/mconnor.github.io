@@ -1,29 +1,36 @@
-# I am Michael Connor -
+# I am Michael Connor - React Native developer
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+I am a Frontend developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries. Which is to say, I was a Flash dev and now... i'm a React Native developer.
 
-I am a Front-end developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries.
+I have been working with Hybrid building a mobile marketing app for the Cannabis industry for the last couple of years. 
 
-I am currently deep diving with React, React Hooks, Gatsby, unit/integration testing, and static type checking (typescript and Flow), physics based animation (React Spring).
+My current and preferred tech stack is:
 
-I  am moving towards a functional style of coding - and moving towards full-stack development (Apollo Client, GraphQL, Prisma).
+- React
+- ReactNative, Exponential
+- Nativebase component library
+- Typescript
+- monorepos (yarn workspaces)
+- Graphql
 
-I have several years experience in digital advertising - developing [VAST][vast]/[VPAID][vpaid] applications and working with industry tools such as DoubleClick.
+I live in New Orleans - the greatest city in the world. I'm a huge fan of JazzFest - which is literally just behind my backyard. 
 
-I am experienced in pushing and merging code with git, working in the command line, processing code task via ticketing systems such as Jira.
+I've traveled through Central America, Siberia (Tuva), Morocco.
 
-I am coming off a two year project with Crownpeak in Sandy, UT. I took over their [AdChoices][adchoices] product. A product that generated a lot of revue. I was the sole developer for the past two years - in charge of fixing bugs, adding new features and assisting clients.
+I've been all in on a lot of moral challenging crushingly exhausting large scale art projects (The Temple @ Burning Man). Working through the night with power tools.
 
-I'm very motivated to build out single page applications with React... as I have done with other technologies. I have some exposure to Vue.js and I like that too. In general, I love es6 javascript and modular frameworks.
+I ride a KLR 650 but thinking of hanging that up. 
 
-I have a test project that [can be seen here][hooks-wine-store]
-And the code is available for inspection [on Github][wine-store-code]
+Yet more manly (but not exclusively so) stuff, I punched a bucket-list item and worked on as a professional white water rafting guide.
 
-I should be rolling out a Gatsby blog very soon.
+Dogs and I have a mutual admiration thing going on.
 
-I am currently live in New Orleans but I'm open to relocation.
+I am one of those obnoxious Crossfit people.
+
+Favorite quote: 
+
+> The high point of civilization is that you can hate me and I can hate you but we develop an etiquette that allows us to deal with each other because if we acted solely upon our impulse we'd probably go to war.
+
 
 
 [github-link]: https://github.com/mconnor
